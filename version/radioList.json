@@ -4317,9 +4317,8 @@
         ]
       }
     ],
-    "server": {
-      "-url": "http://ush.supercanal.com.ar/speedtest/upload.php",
-      "-lat": "-54.8019"
+    "version": {
+      "code": 1
     }
   }
 }
