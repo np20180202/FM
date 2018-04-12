@@ -5,15 +5,7 @@
       {
         "-type": "recommend",
         "radio": [
-          {
-            "-name": "CNR中国之声",
-            "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100001/index_100001.m3u8"
-          },
-          {
-            "-name": "CNR音乐之声",
-            "-url": "http://data.kufm.cn/channel2/109/48"
-          },
-          {
+                    {
             "-name": "北京音乐广播",
             "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100043/index_100043.m3u8"
           },
@@ -70,15 +62,7 @@
       {
         "-type": "country",
         "radio": [
-          {
-            "-name": "CNR中国之声",
-            "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100001/index_100001.m3u8"
-          },
-          {
-            "-name": "CNR音乐之声",
-            "-url": "http://data.kufm.cn/channel2/109/48"
-          },
-          {
+                    {
             "-name": "CRI环球资讯",
             "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100459/index_100459.m3u8"
           },
@@ -4318,7 +4302,7 @@
       }
     ],
     "version": {
-      "code": 1
+      "code": 2
     }
   }
 }
