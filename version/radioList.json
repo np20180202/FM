@@ -1,1 +1,4331 @@
-0AC71FBBCD41506F672C6BF11D5127E1C8048A13D3D7D7C63B7EB1D589A2C800C7A5146F66C9BCE776F3A6C6309A7471A4FBE6D64B85D498A8DFD2C8C7A151974BD63C7BDB1A789AAE3C2335064F08C7121104FDC79EF72612EB16F0D142248A23D4BF53AE6EE83F51B1779627326B2AB6C50D425AF05527CF166AC8EE2F794923713C0B97FA0A835374DE9EF5D95E161B7D7EEA902B015144EEA46547FD94AF35A2E28489F8AC90F407A4B6D622428E69FBB90B6F0E296C7B60214B12BEC68CE51CDAE36976A808EEFF4F7FDCBDC4BDECF63092531A14F2D9D5C2F34B8516449D3CC9493FABD0BA3A4E37F525823EC14A413212FA518FB58F766E895E2614C4356394DA21856A85CAD832441A89F7316EF9AF7F566D6038DE2B9D5532A57095243B936FCDD8CC8A4FDA8D1125318E4ECA94FB9D53B2629587E023A9C8B21BB55E0BEEEC4B4FC9BB1ED1FC77495EBBC956DD76EEC5B8106209E03AD7496A392E1B69B5A43659CCEEBCB7F5DA176DEBDC10ABC3F041DB793F9166A908F265B0A795634AC0A495AE37E188F4E2BCA5546EE431350817022120B0800E2640749B156F294950C327C93FC8919058DA25CB99D2FE584B01933924BC98D2866A16FF1C2DDDB0DED6146668DA703E683CF095E59C658CD1C4A4224C5EE6E659F42D685E98FF919DA0940471F309A589620D3BE1187735FCC00CFDEFDD0A5BAE5AD58185317D3F7F38785929FA476A4FAABCFF5BE599FEF98F534735D7765953CD17E0D375F8EB20B9419F633960FEE60FDB4C5F6A473034D8DE09E6127B68965E1EDACA95634AC0A495AE37E188F4E2BCA5546EE431350817022120B0800E2640749B156F294950C327C93FC8919058DA25CB992CEB52C5364907B6FCB4FFCC8A3527A62C01A08256CEA2E47FE3A6CD15DF47B2E11C7873135F7679EDAB4EDBBECCCB36BA54C1B11817571F5347277CE433C3D6605421C4E32EF8A1AE243F023D59A8B19A7BEDA24C0FB4AE35EEED7F13F8CD79F9D12572E4F8036D45C3F88C87FACEDFC1E3F63C98699FBE7F81F7EF7493FFBDA5F993CCE4BE640E145A673AC11988A3FF410B77A0729CE643789C87923BDCDC2EB26A9E545343F7CDB81733FEC8DDEBBE6D431F6D132B2223722B659DAE8C5D8B50379878759605FCCBFE86D39665C512E6641C0FE3BD3628D80DB016415A45C7A5146F66C9BCE776F3A6C6309A7471A4FBE6D64B85D498A8DFD2C8C7A15197DDE4FE2C29B56EC519209F7CE6798582121104FDC79EF72612EB16F0D142248A23D4BF53AE6EE83F51B1779627326B2AB6C50D425AF05527CF166AC8EE2F794923713C0B97FA0A835374DE9EF5D95E168862EF9152C7073BE6E535C98E0CD931175A512F98E6281D8D10F0A199558A0184EA46A1974478641EC3673A445647066D8759092FDEB6530588D2BA903DA8E9EDEA4E63A5F4A41273DFB2226707A9E30F1AE1DF566B52E094CF67382E1BC2FB4A413212FA518FB58F766E895E2614C4356394DA21856A85CAD832441A89F7316EF9AF7F566D6038DE2B9D5532A570959029C4249AEB0E23087B2BF204BA79D8CA94FB9D53B2629587E023A9C8B21BB55E0BEEEC4B4FC9BB1ED1FC77495EBBC956DD76EEC5B8106209E03AD7496A392E639D33477BBF5D3F526E61F6D4D0C887121104FDC79EF72612EB16F0D142248A23D4BF53AE6EE83F51B1779627326B2AB6C50D425AF05527CF166AC8EE2F794923713C0B97FA0A835374DE9EF5D95E16457F6A64208AB65E86C992CDDC692E09175A512F98E6281D8D10F0A199558A0184EA46A1974478641EC3673A44564706C2CBE58BD14D7F87838EC223D0269BF2D5ED78B477FFB7F00921F8B5E8D79B5479C3CE0847D65BCB5854F8E88777DB8F81F9B1B218C741C8A0AC04A4EC195893CC4C1D9B5C54172B4E4097F2C155A4829561805805D38E12871E4A8675904B72D9EE74BF67070416D57E6B4F468D23B0358C76CE9E6589D0B59D134608E256798F0F0D36BA083F665C306B4FDFCA7069915509C9E116A9395B3A27CB44B0DB1BB8FC6777A6EE2F51E1F59AC632768EC8FE4CD8B9A14AFEEB31963768BF743BA20647C43E8E08377AB9B97E9715BBFDA3CBA522A9AB0110AEF903F5E72E237CB91481F5620772E2FDD1153838B63D7652B05ED8F4FCA68156230755CDACB75BA405D1A93C55085074504633FC98F6CF433FBC5F6BB510539B239C03343009BCE97A99BB71ECEBD99F5F9C77CB42E9AC6A45CF40D9114FD1D530C23FF255FEF2C6B6F0AD60B882701BDA5EA91D7834F5742E32532AD44F4D0E65BBEC41491D5B93CFD05A4078FD2174D8F35C445F868887BF575FFFC7017D9009D85434663A13BDCEAFEFDC6113AFA1EB065A2093DADF855B6484C26FFF4724114D580A91CDAF722B4C80E772F51F3B6E0A2E90F4E82CF7BDEFB4C1ACEEB3124364B2DEDF18DD57CA94FB9D53B2629587E023A9C8B21BB55E0BEEEC4B4FC9BB1ED1FC77495EBBC945F29ADA159B83EB9B0A4280799D01BD9AEDD5410770D778D244D3EB1B3E7F6980D9A15791F391D1CCBDA0775308D1B1E07E9A665E5AD306C15CE0A76CAE4A61954DEE73CDD89A266BEB76CB5B88F34A1481F5620772E2FDD1153838B63D7652B05ED8F4FCA68156230755CDACB75BA405D1A93C55085074504633FC98F6CF433FBC5F6BB510539B239C03343009BCE9E1C5B2DC9939D2D1410CEE498BDEA095CA94FB9D53B2629587E023A9C8B21BB55E0BEEEC4B4FC9BB1ED1FC77495EBBC945F29ADA159B83EB9B0A4280799D01BD9AEDD5410770D778D244D3EB1B3E7F6980D9A15791F391D1CCBDA0775308D1B1DD1FF1D793E1A27673256690E
+{
+  "radio_list": {
+
+    "radios": [
+      {
+        "-type": "recommend",
+        "radio": [
+          {
+            "-name": "CNR中国之声",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100001/index_100001.m3u8"
+          },
+          {
+            "-name": "CNR音乐之声",
+            "-url": "http://data.kufm.cn/channel2/109/48"
+          },
+          {
+            "-name": "北京音乐广播",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100043/index_100043.m3u8"
+          },
+          {
+            "-name": "北京新闻广播",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100045/index_100045.m3u8"
+          },
+          {
+            "-name": "怀旧金曲频道",
+            "-url": "http://data.kufm.cn/channel2/1946/48"
+          },
+          {
+            "-name": "动感101泡菜电台",
+            "-url": "http://live.xmcdn.com/live/1708/64.m3u8"
+          },
+          {
+            "-name": "上海故事广播",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100115/index_100115.m3u8"
+          },
+          {
+            "-name": "深圳飞扬971",
+            "-url": "http://http.hz.qingting.fm/1271.mp3"
+          },
+          {
+            "-name": "深圳生活广播",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100475/index_100475.m3u8"
+          },
+          {
+            "-name": "经典粤语金曲电台",
+            "-url": "http://data.kufm.cn/channel2/1990/48"
+          },
+          {
+            "-name": "郭德纲相声频道",
+            "-url": "http://data.kufm.cn/channel2/1974/48"
+          },
+          {
+            "-name": "名家相声精选",
+            "-url": "http://data.kufm.cn/channel2/2096/48"
+          },
+          {
+            "-name": "儿歌电台",
+            "-url": "http://data.kufm.cn/channel2/2013/48"
+          },
+          {
+            "-name": "动漫音乐电台",
+            "-url": "http://data.kufm.cn/channel2/2012/48"
+          },
+          {
+            "-name": "麦霸电台",
+            "-url": "http://data.kufm.cn/channel2/1986/48"
+          }
+        ]
+      },
+      {
+        "-type": "country",
+        "radio": [
+          {
+            "-name": "CNR中国之声",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100001/index_100001.m3u8"
+          },
+          {
+            "-name": "CNR音乐之声",
+            "-url": "http://data.kufm.cn/channel2/109/48"
+          },
+          {
+            "-name": "CRI环球资讯",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100459/index_100459.m3u8"
+          },
+          {
+            "-name": "CNR都市之声",
+            "-url": "http://http.hz.qingting.fm/389.mp3"
+          },
+          {
+            "-name": "CNR经济之声",
+            "-url": "http://data.kufm.cn/channel2/107/48"
+          },
+          {
+            "-name": "CRI HIT FM",
+            "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/105046/index_105046.m3u8"
+          },
+          {
+            "-name": "CRI轻松调频",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100641/index_100641.m3u8"
+          },
+          {
+            "-name": "CRI NEWS Plus Radio",
+            "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/135498/index_135498.m3u8"
+          },
+          {
+            "-name": "CNR文艺之声",
+            "-url": "http://data.kufm.cn/channel2/131/48"
+          },
+          {
+            "-name": "CNR娱乐广播",
+            "-url": "http://data.kufm.cn/channel2/127/48"
+          },
+          {
+            "-name": "CRI中文环球广播",
+            "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/101016/index_101016.m3u8"
+          },
+          {
+            "-name": "CNR中华之声",
+            "-url": "http://data.kufm.cn/channel2/129/48"
+          },
+          {
+            "-name": "CNR神州之声",
+            "-url": "http://data.kufm.cn/channel2/113/48"
+          },
+          {
+            "-name": "CNR华夏之声",
+            "-url": "http://data.kufm.cn/channel2/115/48"
+          },
+          {
+            "-name": "CNR民族之声",
+            "-url": "http://data.kufm.cn/channel2/119/48"
+          },
+          {
+            "-name": "CNR老年之声",
+            "-url": "http://http.hz.qingting.fm/396.mp3"
+          },
+          {
+            "-name": "CNR藏语频道",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100733/index_100733.m3u8"
+          },
+          {
+            "-name": "CNR维语广播",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/104721/index_104721.m3u8"
+          },
+          {
+            "-name": "CNR香港之声",
+            "-url": "http://http.hz.qingting.fm/4986.mp3"
+          },
+          {
+            "-name": "CNR高速广播",
+            "-url": "http://data.kufm.cn/channel2/133/48"
+          },
+          {
+            "-name": "CNR中国乡村之声",
+            "-url": "http://data.kufm.cn/channel2/135/48"
+          },
+          {
+            "-name": "银河台相声小品",
+            "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100462/index_100462.m3u8"
+          },
+          {
+            "-name": "银河台中国民乐",
+            "-url": "http://data.kufm.cn/channel2/140/48"
+          },
+          {
+            "-name": "银河台经典评书",
+            "-url": "http://http.hz.qingting.fm/4992.mp3"
+          },
+          {
+            "-name": "银河台古典音乐",
+            "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100460/index_100460.m3u8"
+          },
+          {
+            "-name": "CRI闽南之声",
+            "-url": "http://data.kufm.cn/channel2/79/48"
+          },
+          {
+            "-name": "CRI客家之声",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/104755/index_104755.m3u8"
+          },
+          {
+            "-name": "海峡之声新闻广播",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.43/radios/104661/index_104661.m3u8"
+          },
+          {
+            "-name": "海峡之声闽南语广播",
+            "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/104662/index_104662.m3u8"
+          }
+        ]
+      },
+      {
+        "-type": "local",
+        "city": [
+          {
+            "-name": "北京",
+            "radio": [
+              {
+                "-name": "北京音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100043/index_100043.m3u8"
+              },
+              {
+                "-name": "北京新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100045/index_100045.m3u8"
+              },
+              {
+                "-name": "北京交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100044/index_100044.m3u8"
+              },
+              {
+                "-name": "北京文艺广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100049/index_100049.m3u8"
+              },
+              {
+                "-name": "北京体育广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100048/index_100048.m3u8"
+              },
+              {
+                "-name": "北京故事广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100047/index_100047.m3u8"
+              },
+              {
+                "-name": "北京外语广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100715/index_100715.m3u8"
+              },
+              {
+                "-name": "北京长书广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100714/index_100714.m3u8"
+              },
+              {
+                "-name": "北京戏曲曲艺",
+                "-url": "http://live.xmcdn.com/live/106/64.m3u8"
+              },
+              {
+                "-name": "北京城市广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100046/index_100046.m3u8"
+              },
+              {
+                "-name": "经典调频北京FM969",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/113637/index_113637.m3u8"
+              },
+              {
+                "-name": "北京古典音乐",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100716/index_100716.m3u8"
+              },
+              {
+                "-name": "北京爱家广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100862/index_100862.m3u8"
+              },
+              {
+                "-name": "北京欢乐时光",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100713/index_100713.m3u8"
+              },
+              {
+                "-name": "北京怀旧金曲",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100717/index_100717.m3u8"
+              },
+              {
+                "-name": "北京好音乐959",
+                "-url": "http://http.hz.qingting.fm/2131011.mp3"
+              },
+              {
+                "-name": "私家车FM99.9",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/135698/index_135698.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "上海",
+
+            "radio": [
+              {
+                "-name": "上海东广新闻台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100113/index_100113.m3u8"
+              },
+              {
+                "-name": "上海kFM981",
+                "-url": "http://http.hz.qingting.fm/2963035.mp3"
+              },
+              {
+                "-name": "上海新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100012/index_100012.m3u8"
+              },
+              {
+                "-name": "动感101泡菜电台",
+                "-url": "http://live.xmcdn.com/live/1708/64.m3u8"
+              },
+              {
+                "-name": "上海899驾车调频",
+                "-url": "http://http.hz.qingting.fm/4893.mp3"
+              },
+              {
+                "-name": "东厂都市广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100114/index_100114.m3u8"
+              },
+              {
+                "-name": "上海第一财经频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100116/index_100116.m3u8"
+              },
+              {
+                "-name": "上海五星体育",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100010/index_100010.m3u8"
+              },
+              {
+                "-name": "上海流行音乐Love Radio",
+                "-url": "http://data.kufm.cn/channel2/1296/48"
+              },
+              {
+                "-name": "上海经典947",
+                "-url": "http://http.hz.qingting.fm/267.mp3"
+              },
+              {
+                "-name": "上海动感101",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/135497/index_135497.m3u8"
+              },
+              {
+                "-name": "上海故事广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100115/index_100115.m3u8"
+              },
+              {
+                "-name": "上海交通广播电台",
+                "-url": "http://http.hz.qingting.fm/266.mp3"
+              },
+              {
+                "-name": "上海KFM981爱乐广播",
+                "-url": "http://http.hz.qingting.fm/2963035.mp3"
+              },
+              {
+                "-name": "上海浦江之声",
+                "-url": "http://http.hz.qingting.fm/4857.mp3"
+              },
+              {
+                "-name": "东上海之声FM106.5",
+                "-url": "http://http.hz.qingting.fm/2963035.mp3"
+              },
+              {
+                "-name": "上海沸点100音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/113765/index_113765.m3u8"
+              },
+              {
+                "-name": "上海戏剧曲艺广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100117/index_100117.m3u8"
+              },
+              {
+                "-name": "上海东方卫视",
+                "-url": "http://http.hz.qingting.fm/58826.mp3"
+              },
+              {
+                "-name": "闵行人民广播电台",
+                "-url": "http://http.hz.qingting.fm/58826.mp3"
+              },
+              {
+                "-name": "上海奉贤广播电台",
+                "-url": "http://http.hz.qingting.fm/58826.mp3"
+              },
+              {
+                "-name": "金山人民广播电台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/104774/index_104774.m3u8"
+              },
+              {
+                "-name": "上海人民广播电台",
+                "-url": "http://live.xmcdn.com/live/58/64.m3u8"
+              },
+              {
+                "-name": "上海五星体育广播",
+                "-url": "http://live.xmcdn.com/live/57/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "天津",
+            "radio": [
+              {
+                "-name": "天津音乐广播",
+                "-url": "http://http.hz.qingting.fm/1170.mp3"
+              },
+              {
+                "-name": "天津新闻广播",
+                "-url": "http://data.kufm.cn/channel2/1368/48"
+              },
+              {
+                "-name": "天津MYFM100.5",
+                "-url": "http://http.hz.qingting.fm/23869.mp3"
+              },
+              {
+                "-name": "天津交通广播",
+                "-url": "http://http.hz.qingting.fm/1168.mp3"
+              },
+              {
+                "-name": "天津文艺广播",
+                "-url": "http://http.hz.qingting.fm/1174.mp3"
+              },
+              {
+                "-name": "天津相声广播",
+                "-url": "http://http.hz.qingting.fm/1175.mp3"
+              },
+              {
+                "-name": "天津经济广播",
+                "-url": "http://http.hz.qingting.fm/1173.mp3"
+              },
+              {
+                "-name": "天津生活广播",
+                "-url": "http://http.hz.qingting.fm/1169.mp3"
+              },
+              {
+                "-name": "天津滨海广播",
+                "-url": "http://data.kufm.cn/channel2/1370/48"
+              },
+              {
+                "-name": "天津农村广播",
+                "-url": "http://data.kufm.cn/channel2/1392/48"
+              }
+            ]
+          },
+          {
+            "-name": "重庆",
+            "radio": [
+              {
+                "-name": "重庆音乐广播",
+                "-url": "http://data.kufm.cn/channel2/375/48"
+              },
+              {
+                "-name": "重庆之声",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100509/index_100509.m3u8"
+              },
+              {
+                "-name": "重庆交通广播",
+                "-url": "http://data.kufm.cn/channel2/374/48"
+              },
+              {
+                "-name": "重庆经济广播",
+                "-url": "http://data.kufm.cn/channel2/373/48"
+              },
+              {
+                "-name": "重庆都市广播",
+                "-url": "http://data.kufm.cn/channel2/376/48"
+              },
+              {
+                "-name": "重庆文艺广播",
+                "-url": "http://data.kufm.cn/channel2/377/48"
+              },
+              {
+                "-name": "重庆巴渝之声",
+                "-url": "http://http.hz.qingting.fm/3545693.mp3"
+              },
+              {
+                "-name": "重庆南川107",
+                "-url": "http://http.hz.qingting.fm/5116983.mp3"
+              },
+              {
+                "-name": "涪陵人民广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/101597/index_101597.m3u8"
+              },
+              {
+                "-name": "巴南电台泉乡之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/135390/index_135390.m3u8"
+              },
+              {
+                "-name": "重庆万盛旅游交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100511/index_100511.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "广东",
+            "radio": [
+              {
+                "-name": "广东音乐之声",
+                "-url": "http://http.hz.qingting.fm/1260.mp3"
+              },
+              {
+                "-name": "深圳飞扬971",
+                "-url": "http://http.hz.qingting.fm/1271.mp3"
+              },
+              {
+                "-name": "东莞电台畅享1075",
+                "-url": "http://http.hz.qingting.fm/1288.mp3"
+              },
+              {
+                "-name": "东莞电台阳关1008",
+                "-url": "http://http.hz.qingting.fm/1276.mp3"
+              },
+              {
+                "-name": "东莞电台声动104",
+                "-url": "http://http.hz.qingting.fm/93619.mp3"
+              },
+              {
+                "-name": "广东广播电视台文体广播",
+                "-url": "http://http.hz.qingting.fm/471.mp3"
+              },
+              {
+                "-name": "广东珠江经济电台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100489/index_100489.m3u8"
+              },
+              {
+                "-name": "广东南方生活广播",
+                "-url": "http://data.kufm.cn/channel2/444/48"
+              },
+              {
+                "-name": "广州汽车音乐电台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100852/index_100852.m3u8"
+              },
+              {
+                "-name": "广东广播电视台股市广播",
+                "-url": "http://data.kufm.cn/channel2/450/48"
+              },
+              {
+                "-name": "广东电台优悦广播",
+                "-url": "http://http.hz.qingting.fm/470.mp3"
+              },
+              {
+                "-name": "广东城市之声",
+                "-url": "http://data.kufm.cn/channel2/442/48"
+              },
+              {
+                "-name": "广东新闻频道",
+                "-url": "http://data.kufm.cn/channel2/435/48"
+              },
+              {
+                "-name": "广东羊城交通台",
+                "-url": "http://data.kufm.cn/channel2/446/48"
+              },
+              {
+                "-name": "怀集音乐之声",
+                "-url": "http://data.kufm.cn/channel2/479/48"
+              },
+              {
+                "-name": "广州新闻资讯广播",
+                "-url": "http://data.kufm.cn/channel2/458/48"
+              },
+              {
+                "-name": "广州交通广播",
+                "-url": "http://data.kufm.cn/channel2/460/48"
+              },
+              {
+                "-name": "深圳先锋898",
+                "-url": "http://lhttp.qingting.fm/live/1270/64k.mp3"
+              },
+              {
+                "-name": "深圳交通频道",
+                "-url": "http://lhttp.qingting.fm/live/1272/64k.mp3"
+              },
+              {
+                "-name": "深圳生活广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100475/index_100475.m3u8"
+              },
+              {
+                "-name": "广东股市广播",
+                "-url": "http://live.xmcdn.com/live/250/64.m3u8"
+              },
+              {
+                "-name": "广东HIFI频道",
+                "-url": "http://live.xmcdn.com/live/1225/64.m3u8"
+              },
+              {
+                "-name": "HITFM广州",
+                "-url": "http://live.xmcdn.com/live/2455/64.m3u8"
+              },
+              {
+                "-name": "中山电台快乐888",
+                "-url": "http://http.hz.qingting.fm/1278.mp3"
+              },
+              {
+                "-name": "中山电台新锐967",
+                "-url": "http://data.kufm.cn/channel2/477/48"
+              },
+              {
+                "-name": "珠海电台先锋951",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100149/index_100149.m3u8"
+              },
+              {
+                "-name": "珠海电台交通875",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100148/index_100148.m3u8"
+              },
+              {
+                "-name": "珠海电台活力915",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/135390/index_135390.m3u8"
+              },
+              {
+                "-name": "汕头新闻资讯之声",
+                "-url": "http://data.kufm.cn/channel2/488/48"
+              },
+              {
+                "-name": "汕头电台交通之声",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/100501/index_100501.m3u8"
+              },
+              {
+                "-name": "汕头电台音乐之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100478/index_100478.m3u8"
+              },
+              {
+                "-name": "惠州电台音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/135549/index_135549.m3u8"
+              },
+              {
+                "-name": "惠州交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/105131/index_105131.m3u8"
+              },
+              {
+                "-name": "惠州电台阳光100",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/105130/index_105130.m3u8"
+              },
+              {
+                "-name": "中山电台快乐888",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/100483/index_100483.m3u8"
+              },
+              {
+                "-name": "中山电台新锐967",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100482/index_100482.m3u8"
+              },
+              {
+                "-name": "潮州戏曲广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/100495/index_100495.m3u8"
+              },
+              {
+                "-name": "潮州电台新闻公益广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100494/index_100494.m3u8"
+              },
+              {
+                "-name": "潮州综合频率",
+                "-url": "http://http.hz.qingting.fm/4596.mp3"
+              },
+              {
+                "-name": "潮州交通音乐广播",
+                "-url": "http://http.hz.qingting.fm/4594.mp3"
+              },
+              {
+                "-name": "云浮电台交通音乐广播",
+                "-url": "http://http.hz.qingting.fm/3701218.mp3"
+              },
+              {
+                "-name": "云浮广播电视台综合广播",
+                "-url": "http://http.hz.qingting.fm/3701227.mp3"
+              },
+              {
+                "-name": "梅州电台新闻台",
+                "-url": "http://http.hz.qingting.fm/24173.mp3"
+              },
+              {
+                "-name": "梅州广播交通台",
+                "-url": "http://http.hz.qingting.fm/24195.mp3"
+              },
+              {
+                "-name": "广东梅州私家车广播FM94.0",
+                "-url": "http://http.hz.qingting.fm/2841338.mp3"
+              },
+              {
+                "-name": "佛山电台真爱946",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100487/index_100487.m3u8"
+              },
+              {
+                "-name": "佛山电台千色985",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100485/index_100485.m3u8"
+              },
+              {
+                "-name": "佛山电台飞跃924",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100486/index_100486.m3u8"
+              },
+              {
+                "-name": "佛山电台三水台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100484/index_100484.m3u8"
+              },
+              {
+                "-name": "佛山电台顺德台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100503/index_100503.m3u8"
+              },
+              {
+                "-name": "佛山电台高明台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100488/index_100488.m3u8"
+              },
+              {
+                "-name": "江门新闻综合",
+                "-url": "http://http.hz.qingting.fm/1282.mp3"
+              },
+              {
+                "-name": "广东故事频道",
+                "-url": "http://live.xmcdn.com/live/1223/64.m3u8"
+              },
+              {
+                "-name": " 广东揭阳普宁人民广播电台",
+                "-url": "http://live.xmcdn.com/live/2124/64.m3u8"
+              },
+              {
+                "-name": "龙岗991",
+                "-url": "http://live.xmcdn.com/live/266/64.m3u8"
+              },
+              {
+                "-name": "恩平FM97.7",
+                "-url": "http://live.xmcdn.com/live/1211/64.m3u8"
+              },
+              {
+                "-name": "新会人民广播电台",
+                "-url": "http://live.xmcdn.com/live/275/64.m3u8"
+              },
+              {
+                "-name": "鹤山电台",
+                "-url": "http://live.xmcdn.com/live/969/64.m3u8"
+              },
+              {
+                "-name": "中华电台快乐888",
+                "-url": "http://live.xmcdn.com/live/1808/64.m3u8"
+              },
+              {
+                "-name": "开平广播电台",
+                "-url": "http://live.xmcdn.com/live/276/64.m3u8"
+              },
+              {
+                "-name": "韶关新闻综合广播",
+                "-url": "http://live.xmcdn.com/live/285/64.m3u8"
+              },
+              {
+                "-name": "韶关交通旅游广播",
+                "-url": "http://live.xmcdn.com/live/286/64.m3u8"
+              },
+              {
+                "-name": "海丰人民广播电台",
+                "-url": "http://live.xmcdn.com/live/2123/64.m3u8"
+              },
+              {
+                "-name": "清远交通旅游频率",
+                "-url": "http://live.xmcdn.com/live/2316/64.m3u8"
+              },
+              {
+                "-name": "广州花都广播电台",
+                "-url": "http://live.xmcdn.com/live/1802/64.m3u8"
+              },
+              {
+                "-name": "英德电台",
+                "-url": "http://live.xmcdn.com/live/1192/64.m3u8"
+              },
+              {
+                "-name": "汕尾农村广播",
+                "-url": "http://live.xmcdn.com/live/1193/64.m3u8"
+              },
+              {
+                "-name": "郁南网络电台",
+                "-url": "http://live.xmcdn.com/live/1195/64.m3u8"
+              },
+              {
+                "-name": " 清远电台FM88.7",
+                "-url": "http://live.xmcdn.com/live/1198/64.m3u8"
+              },
+              {
+                "-name": "澄海人民广播电台",
+                "-url": "http://live.xmcdn.com/live/1200/64.m3u8"
+              },
+              {
+                "-name": "FM97.8河源旅游广播",
+                "-url": "http://live.xmcdn.com/live/1204/64.m3u8"
+              },
+              {
+                "-name": "汕尾广播综合频道",
+                "-url": "http://live.xmcdn.com/live/1209/64.m3u8"
+              },
+              {
+                "-name": "英德电台",
+                "-url": "http://live.xmcdn.com/live/1192/64.m3u8"
+              },
+              {
+                "-name": "汕尾农村广播",
+                "-url": "http://live.xmcdn.com/live/1193/64.m3u8"
+              },
+              {
+                "-name": "台山人民广播电台",
+                "-url": "http://live.xmcdn.com/live/1216/64.m3u8"
+              },
+              {
+                "-name": " FM91.1河源新闻综合广播",
+                "-url": "http://live.xmcdn.com/live/1219/64.m3u8"
+              },
+              {
+                "-name": "广宁音乐之声",
+                "-url": "http://live.xmcdn.com/live/1854/64.m3u8"
+              },
+              {
+                "-name": "HITFM广州",
+                "-url": "http://live.xmcdn.com/live/2455/64.m3u8"
+              },
+              {
+                "-name": "连平音乐之声",
+                "-url": "http://live.xmcdn.com/live/1942/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "浙江",
+            "radio": [
+              {
+                "-name": "浙江之声",
+                "-url": "http://http.hz.qingting.fm/4518.mp3"
+              },
+              {
+                "-name": "杭州西湖之声",
+                "-url": "http://http.hz.qingting.fm/1163.mp3"
+              },
+              {
+                "-name": "浙江FM88.4天姥之声",
+                "-url": "http://http.hz.qingting.fm/4866.mp3"
+              },
+              {
+                "-name": "浙江交通之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100102/index_100102.m3u8"
+              },
+              {
+                "-name": "浙江悦动之音",
+                "-url": "http://http.hz.qingting.fm/4521.mp3"
+              },
+              {
+                "-name": "浙江女主播电台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/104995/index_104995.m3u8"
+              },
+              {
+                "-name": "浙江经济广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/104992/index_104992.m3u8"
+              },
+              {
+                "-name": "浙江城市之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/104994/index_104994.m3u8"
+              },
+              {
+                "-name": "浙江新闻广播新锐988",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/135495/index_135495.m3u8"
+              },
+              {
+                "-name": "杭州电台中波954",
+                "-url": "http://http.hz.qingting.fm/1132.mp3"
+              },
+              {
+                "-name": "杭州交通91.8电台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100104/index_100104.m3u8"
+              },
+              {
+                "-name": "杭州之声",
+                "-url": "http://http.hz.qingting.fm/1134.mp3"
+              },
+              {
+                "-name": "杭州电台中波954-老朋友广播",
+                "-url": "http://http.hz.qingting.fm/1132.mp3"
+              },
+              {
+                "-name": "杭州FM90.7",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/135732/index_135732.m3u8"
+              },
+              {
+                "-name": "杭州华语之声",
+                "-url": "http://http.hz.qingting.fm/77891.mp3"
+              },
+              {
+                "-name": "宁波新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/1138.mp3"
+              },
+              {
+                "-name": "宁波电台阳光904",
+                "-url": "http://http.hz.qingting.fm/1141.mp3"
+              },
+              {
+                "-name": "宁波经济广播",
+                "-url": "http://http.hz.qingting.fm/1152.mp3"
+              },
+              {
+                "-name": "1001甬江之声",
+                "-url": "http://live.xmcdn.com/live/658/64.m3u8"
+              },
+              {
+                "-name": "1008可乐台",
+                "-url": "http://http.hz.qingting.fm/1153.mp3"
+              },
+              {
+                "-name": "温州交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100152/index_100152.m3u8"
+              },
+              {
+                "-name": "温州私家车音乐",
+                "-url": "http://data.kufm.cn/channel2/1498/48"
+              },
+              {
+                "-name": "温州新闻广播",
+                "-url": "http://data.kufm.cn/channel2/1494/48"
+              },
+              {
+                "-name": "温州经济广播",
+                "-url": "http://data.kufm.cn/channel2/1500/48"
+              },
+              {
+                "-name": "温州绿色广播",
+                "-url": "http://data.kufm.cn/channel2/1502/48"
+              },
+              {
+                "-name": "嘉兴交通广播",
+                "-url": "http://live.xmcdn.com/live/640/64.m3u8"
+              },
+              {
+                "-name": "嘉兴生活广播",
+                "-url": "http://live.xmcdn.com/live/651/64.m3u8"
+              },
+              {
+                "-name": "嘉兴新闻广播",
+                "-url": "http://live.xmcdn.com/live/650/64.m3u8"
+              },
+              {
+                "-name": "湖州交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100156/index_100156.m3u8"
+              },
+              {
+                "-name": "湖州交通文艺广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100154/index_100154.m3u8"
+              },
+              {
+                "-name": "FM105湖州之声",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/100155/index_100155.m3u8"
+              },
+              {
+                "-name": "金华电台私家车101",
+                "-url": "http://http.hz.qingting.fm/78277.mp3"
+              },
+              {
+                "-name": "金华交通广播",
+                "-url": "http://http.hz.qingting.fm/28134.mp3"
+              },
+              {
+                "-name": "金华之声",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/100779/index_100779.m3u8"
+              },
+              {
+                "-name": "FM102.2阳光调频",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/135392/index_135392.m3u8"
+              },
+              {
+                "-name": "绍兴之声",
+                "-url": "http://http.hz.qingting.fm/5052.mp3"
+              },
+              {
+                "-name": "绍兴新闻广播",
+                "-url": "http://http.hz.qingting.fm/5052.mp3"
+              },
+              {
+                "-name": "绍兴音乐广播",
+                "-url": "http://http.hz.qingting.fm/5054.mp3"
+              },
+              {
+                "-name": "绍兴交通广播",
+                "-url": "http://http.hz.qingting.fm/5053.mp3"
+              },
+              {
+                "-name": "衢州新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/108962/index_108962.m3u8"
+              },
+              {
+                "-name": "衢州交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/108961/index_108961.m3u8"
+              },
+              {
+                "-name": "金华交通广播",
+                "-url": "http://http.hz.qingting.fm/1137.mp3"
+              },
+              {
+                "-name": "舟山新闻综合",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/105133/index_105133.m3u8"
+              },
+              {
+                "-name": "舟山交通经济广播",
+                "-url": "http://http.hz.qingting.fm/1161.mp3"
+              },
+              {
+                "-name": "舟山汽车音乐广播",
+                "-url": "http://http.hz.qingting.fm/1162.mp3"
+              },
+              {
+                "-name": "余杭丽人广播",
+                "-url": "http://data.kufm.cn/channel2/1486/48"
+              },
+              {
+                "-name": "东阳城市广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/135424/index_135424.m3u8"
+              },
+              {
+                "-name": "FM96大潮之声",
+                "-url": "http://http.hz.qingting.fm/4043106.mp3"
+              },
+              {
+                "-name": "FM89.8临海人民广播电台",
+                "-url": "http://data.kufm.cn/channel2/2085/48"
+              },
+              {
+                "-name": "FM989宁海新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/3598136.mp3"
+              },
+              {
+                "-name": "兰溪电台FM90.8",
+                "-url": "http://http.hz.qingting.fm/3974743.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "江苏",
+            "radio": [
+              {
+                "-name": "南京音乐广播",
+                "-url": "http://data.kufm.cn/channel2/885/48"
+              },
+              {
+                "-name": "江苏音乐广播",
+                "-url": "http://data.kufm.cn/channel2/873/48"
+              },
+              {
+                "-name": "江苏经典流行音乐",
+                "-url": "http://data.kufm.cn/channel2/872/48"
+              },
+              {
+                "-name": "FM997江苏汽车调频",
+                "-url": "http://data.kufm.cn/channel2/871/48"
+              },
+              {
+                "-name": "江苏交通广播",
+                "-url": "http://data.kufm.cn/channel2/870/48"
+              },
+              {
+                "-name": "江苏新闻广播",
+                "-url": "http://data.kufm.cn/channel2/2011/48"
+              },
+              {
+                "-name": "江苏新闻综合广播",
+                "-url": "http://data.kufm.cn/channel2/869/48"
+              },
+              {
+                "-name": "江苏文艺广播",
+                "-url": "http://data.kufm.cn/channel2/875/48"
+              },
+              {
+                "-name": "江苏财经广播",
+                "-url": "http://data.kufm.cn/channel2/877/48"
+              },
+              {
+                "-name": "江苏健康广播",
+                "-url": "http://data.kufm.cn/channel2/876/48"
+              },
+              {
+                "-name": "江苏故事广播",
+                "-url": "http://data.kufm.cn/channel2/874/48"
+              },
+              {
+                "-name": "南京新闻广播",
+                "-url": "http://http.hz.qingting.fm/4960.mp3"
+              },
+              {
+                "-name": "南京经济广播",
+                "-url": "http://data.kufm.cn/channel2/2048/48"
+              },
+              {
+                "-name": "南京交通广播",
+                "-url": "http://http.hz.qingting.fm/4962.mp3"
+              },
+              {
+                "-name": "南京体育广播",
+                "-url": "http://data.kufm.cn/channel2/886/48"
+              },
+              {
+                "-name": "苏州音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/100549/index_100549.m3u8"
+              },
+              {
+                "-name": "苏州新闻广播",
+                "-url": "http://live.xmcdn.com/live/63/64.m3u8"
+              },
+              {
+                "-name": "苏州交通广播",
+                "-url": "http://live.xmcdn.com/live/64/64.m3u8"
+              },
+              {
+                "-name": "苏州戏曲广播",
+                "-url": "http://live.xmcdn.com/live/576/64.m3u8"
+              },
+              {
+                "-name": "苏州电台儿童广播",
+                "-url": "http://live.xmcdn.com/live/66/64.m3u8"
+              },
+              {
+                "-name": "南通音乐广播",
+                "-url": "http://http.hz.qingting.fm/1606731.mp3"
+              },
+              {
+                "-name": "南通新闻广播",
+                "-url": "http://data.kufm.cn/channel2/938/48"
+              },
+              {
+                "-name": "镇江交通广播",
+                "-url": "http://http.hz.qingting.fm/3985.mp3"
+              },
+              {
+                "-name": "镇江新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/104796/index_104796.m3u8"
+              },
+              {
+                "-name": "镇江私家车电台&直播秀场",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/104800/index_104800.m3u8"
+              },
+              {
+                "-name": "镇江健康生活广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.43/radios/104799/index_104799.m3u8"
+              },
+              {
+                "-name": "镇江音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/104798/index_104798.m3u8"
+              },
+              {
+                "-name": "镇江城市905",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.43/radios/104797/index_104797.m3u8"
+              },
+              {
+                "-name": "无锡新闻广播",
+                "-url": "http://http.hz.qingting.fm/2777.mp3"
+              },
+              {
+                "-name": "无锡汽车音乐广播",
+                "-url": "http://data.kufm.cn/channel2/899/48"
+              },
+              {
+                "-name": "张家港新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/113872/index_113872.m3u8"
+              },
+              {
+                "-name": "张家港交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/113874/index_113874.m3u8"
+              },
+              {
+                "-name": "泰州新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100573/index_100573.m3u8"
+              },
+              {
+                "-name": "泰州交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/104793/index_104793.m3u8"
+              },
+              {
+                "-name": "武进886生活广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/101011/index_101011.m3u8"
+              },
+              {
+                "-name": "淮安交通文艺",
+                "-url": "http://http.hz.qingting.fm/4586.mp3"
+              },
+              {
+                "-name": "淮安私家车广播100.6",
+                "-url": "http://http.hz.qingting.fm/2886297.mp3"
+              },
+              {
+                "-name": "如东新闻综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/135628/index_135628.m3u8"
+              },
+              {
+                "-name": "淮安新闻综合",
+                "-url": "http://http.hz.qingting.fm/4589.mp3"
+              },
+              {
+                "-name": "徐州新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100562/index_100562.m3u8"
+              },
+              {
+                "-name": "徐州文艺广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100564/index_100564.m3u8"
+              },
+              {
+                "-name": "徐州交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100563/index_100563.m3u8"
+              },
+              {
+                "-name": "徐州电台调频916",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100566/index_100566.m3u8"
+              },
+              {
+                "-name": "淮安经济生活",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/106805/index_106805.m3u8"
+              },
+              {
+                "-name": "淮安FM104.2",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/106807/index_106807.m3u8"
+              },
+              {
+                "-name": "盐城新闻广播",
+                "-url": "http://live.xmcdn.com/live/595/64.m3u8"
+              },
+              {
+                "-name": "盐城音乐广播",
+                "-url": "http://live.xmcdn.com/live/1340/64.m3u8"
+              },
+              {
+                "-name": "盐城交通广播",
+                "-url": "http://http.hz.qingting.fm/60566.mp3"
+              },
+              {
+                "-name": "盐城黄海明珠广播",
+                "-url": "http://live.xmcdn.com/live/596/64.m3u8"
+              },
+              {
+                "-name": "扬州新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100569/index_100569.m3u8"
+              },
+              {
+                "-name": "扬州音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100568/index_100568.m3u8"
+              },
+              {
+                "-name": "扬州交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100567/index_100567.m3u8"
+              },
+              {
+                "-name": "扬州电台江都广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/113667/index_113667.m3u8"
+              },
+              {
+                "-name": "邳州人民广播电台",
+                "-url": "http://data.kufm.cn/channel2/920/48"
+              },
+              {
+                "-name": "常熟新闻广播",
+                "-url": "http://data.kufm.cn/channel2/905/48"
+              },
+              {
+                "-name": "常熟交通广播",
+                "-url": "http://http.hz.qingting.fm/2791.mp3"
+              },
+              {
+                "-name": "宜兴交通广播",
+                "-url": "http://http.hz.qingting.fm/3982.mp3"
+              },
+              {
+                "-name": "宿迁汽车音乐台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/113822/index_113822.m3u8"
+              },
+              {
+                "-name": "宿迁爱心广播",
+                "-url": "http://http.hz.qingting.fm/5005.mp3"
+              },
+              {
+                "-name": "宿迁交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/135535/index_135535.m3u8"
+              },
+              {
+                "-name": "泰州交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/104793/index_104793.m3u8"
+              },
+              {
+                "-name": "泰州新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100573/index_100573.m3u8"
+              },
+              {
+                "-name": "江阴快乐生活调频",
+                "-url": "http://data.kufm.cn/channel2/917/48"
+              },
+              {
+                "-name": "江阴汽车电台",
+                "-url": "http://data.kufm.cn/channel2/918/48"
+              },
+              {
+                "-name": "TopFM90.7江阴汽车广播",
+                "-url": "http://http.hz.qingting.fm/2790.mp3"
+              },
+              {
+                "-name": "常州经济广播",
+                "-url": "http://http.hz.qingting.fm/2794.mp3"
+              },
+              {
+                "-name": "常州交通广播",
+                "-url": "http://http.hz.qingting.fm/2796.mp3"
+              },
+              {
+                "-name": "常州音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100288/index_100288.m3u8"
+              },
+              {
+                "-name": "常州新闻广播",
+                "-url": "http://http.hz.qingting.fm/2798.mp3"
+              },
+              {
+                "-name": "常州经典音乐广播",
+                "-url": "http://live.xmcdn.com/live/80/64.m3u8"
+              },
+              {
+                "-name": "徐州交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100563/index_100563.m3u8"
+              },
+              {
+                "-name": "徐州文艺广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100564/index_100564.m3u8"
+              },
+              {
+                "-name": "徐州新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100562/index_100562.m3u8"
+              },
+              {
+                "-name": "徐州动感916私家车广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100566/index_100566.m3u8"
+              },
+              {
+                "-name": "靖江交通音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/104783/index_104783.m3u8"
+              },
+              {
+                "-name": "江苏音乐广播PlayFM89.7",
+                "-url": "http://live.xmcdn.com/live/537/64.m3u8"
+              },
+              {
+                "-name": "江苏汽车调频",
+                "-url": "http://live.xmcdn.com/live/1648/64.m3u8"
+              },
+              {
+                "-name": "南京新闻综合广播",
+                "-url": "http://live.xmcdn.com/live/68/64.m3u8"
+              },
+              {
+                "-name": "南京JINIFM885",
+                "-url": "http://live.xmcdn.com/live/1753/64.m3u8"
+              },
+              {
+                "-name": "南京MYFM1035",
+                "-url": "http://live.xmcdn.com/live/551/64.m3u8"
+              },
+              {
+                "-name": "苏州生活广播",
+                "-url": "http://live.xmcdn.com/live/573/64.m3u8"
+              },
+              {
+                "-name": "昆山电台魅力889",
+                "-url": "http://live.xmcdn.com/live/749/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "湖南",
+            "radio": [
+              {
+                "-name": "湖南交通频道",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/103985/index_103985.m3u8"
+              },
+              {
+                "-name": "975摩登音乐台",
+                "-url": "http://data.kufm.cn/channel2/792/48"
+              },
+              {
+                "-name": "长沙FM101.7城市之声",
+                "-url": "http://http.hz.qingting.fm/4237.mp3"
+              },
+              {
+                "-name": "长沙交通1061",
+                "-url": "http://http.hz.qingting.fm/3967.mp3"
+              },
+              {
+                "-name": "FM105.0长沙新闻广播",
+                "-url": "http://http.hz.qingting.fm/4877.mp3"
+              },
+              {
+                "-name": "长沙幸福999电台",
+                "-url": "http://http.hz.qingting.fm/62432.mp3"
+              },
+              {
+                "-name": "URadio 优悦945电台",
+                "-url": "http://http.hz.qingting.fm/2747875.mp3"
+              },
+              {
+                "-name": "925悦电台",
+                "-url": "http://data.kufm.cn/channel2/2125/48"
+              },
+              {
+                "-name": "1028郴州交通旅游广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/135479/index_135479.m3u8"
+              },
+              {
+                "-name": "郴州魅力1009音乐调频",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/135478/index_135478.m3u8"
+              },
+              {
+                "-name": "大眼睛湘潭1065电台",
+                "-url": "http://http.hz.qingting.fm/2412.mp3"
+              },
+              {
+                "-name": "芒果Radio湘潭之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/135632/index_135632.m3u8"
+              },
+              {
+                "-name": "常德好朋友926车电台",
+                "-url": "http://http.hz.qingting.fm/4877.mp3"
+              },
+              {
+                "-name": "岳阳新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/88933.mp3"
+              },
+              {
+                "-name": "岳阳交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.7/radios/100860/index_100860.m3u8"
+              },
+              {
+                "-name": "益阳交通频道汽车881",
+                "-url": "http://http.hz.qingting.fm/29206.mp3"
+              },
+              {
+                "-name": "怀化交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/135576/index_135576.m3u8"
+              },
+              {
+                "-name": "怀化新闻频道",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/135575/index_135575.m3u8"
+              },
+              {
+                "-name": "娄底交通广播",
+                "-url": "http://http.hz.qingting.fm/78007.mp3"
+              },
+              {
+                "-name": "娄底综合广播",
+                "-url": "http://live.xmcdn.com/live/416/64.m3u8"
+              },
+              {
+                "-name": "893汽车音乐电台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100891/index_100891.m3u8"
+              },
+              {
+                "-name": "News938潇湘之声",
+                "-url": "http://http.hz.qingting.fm/4982.mp3"
+              },
+              {
+                "-name": "长沙品味音乐广播",
+                "-url": "http://http.hz.qingting.fm/4930.mp3"
+              },
+              {
+                "-name": "湖南经广魅力901",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/101017/index_101017.m3u8"
+              },
+              {
+                "-name": "湖南快乐1045",
+                "-url": "http://http.hz.qingting.fm/4914.mp3"
+              },
+              {
+                "-name": "株洲交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/101017/index_101017.m3u8"
+              },
+              {
+                "-name": "株洲新闻广播",
+                "-url": "http://data.kufm.cn/channel2/815/48"
+              }
+            ]
+          },
+          {
+            "-name": "四川",
+            "radio": [
+              {
+                "-name": "四川经济频率",
+                "-url": "http://http.hz.qingting.fm/4927.mp3"
+              },
+              {
+                "-name": "四川城市之音",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100096/index_100096.m3u8"
+              },
+              {
+                "-name": "四川岷江音乐频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100316/index_100316.m3u8"
+              },
+              {
+                "-name": "四川交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/100313/index_100313.m3u8"
+              },
+              {
+                "-name": "成都经济广播",
+                "-url": "http://http.hz.qingting.fm/1121.mp3"
+              },
+              {
+                "-name": "四川财富广播",
+                "-url": "http://http.hz.qingting.fm/4927.mp3"
+              },
+              {
+                "-name": "唯一音乐广播",
+                "-url": "http://data.kufm.cn/channel2/1325/48"
+              },
+              {
+                "-name": "四川私家车925",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/108954/index_108954.m3u8"
+              },
+              {
+                "-name": "四川文艺广播娱乐调频",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100873/index_100873.m3u8"
+              },
+              {
+                "-name": "四川岷江音乐频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100316/index_100316.m3u8"
+              },
+              {
+                "-name": "四川人民广播电台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100315/index_100315.m3u8"
+              },
+              {
+                "-name": "四川新闻资讯广播",
+                "-url": "http://http.hz.qingting.fm/4906.mp3"
+              },
+              {
+                "-name": "四川旅游生活广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100870/index_100870.m3u8"
+              },
+              {
+                "-name": "四川民族频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100314/index_100314.m3u8"
+              },
+              {
+                "-name": "成都经济广播",
+                "-url": "http://data.kufm.cn/channel2/1328/48"
+              },
+              {
+                "-name": "FM882成都故事广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/135541/index_135541.m3u8"
+              },
+              {
+                "-name": "唯一音乐广播",
+                "-url": "http://data.kufm.cn/channel2/1325/48"
+              },
+              {
+                "-name": "YES!FM",
+                "-url": "http://data.kufm.cn/channel2/1324/48"
+              },
+              {
+                "-name": "盐都音乐生活广播",
+                "-url": "http://http.hz.qingting.fm/78149.mp3"
+              },
+              {
+                "-name": "达州交通音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.7/radios/135654/index_135654.m3u8"
+              },
+              {
+                "-name": "达州综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.7/radios/135640/index_135640.m3u8"
+              },
+              {
+                "-name": "成都新闻广播",
+                "-url": "http://data.kufm.cn/channel2/1326/48"
+              },
+              {
+                "-name": "成都交通广播",
+                "-url": "http://data.kufm.cn/channel2/1327/48"
+              },
+              {
+                "-name": "成都飞跃在线",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100874/index_100874.m3u8"
+              },
+              {
+                "-name": "成都经典946",
+                "-url": "http://live.xmcdn.com/live/5/64.m3u8"
+              },
+              {
+                "-name": "成都驾车调频",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/104886/index_104886.m3u8"
+              },
+              {
+                "-name": "眉山综合广播",
+                "-url": "http://http.hz.qingting.fm/4027.mp3"
+              },
+              {
+                "-name": "攀枝花885都市频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100530/index_100530.m3u8"
+              },
+              {
+                "-name": "攀枝花汽车电台",
+                "-url": "http://http.hz.qingting.fm/4905.mp3"
+              },
+              {
+                "-name": "四川南充交通音乐频率FM91.5",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/135554/index_135554.m3u8"
+              },
+              {
+                "-name": "四川南充电台最爱1004",
+                "-url": "http://http.hz.qingting.fm/1801545.mp3"
+              },
+              {
+                "-name": "德阳综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/109344/index_109344.m3u8"
+              },
+              {
+                "-name": "德阳私家车广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/135447/index_135447.m3u8"
+              },
+              {
+                "-name": "德阳新闻广播",
+                "-url": "http://http.hz.qingting.fm/3147392.mp3"
+              },
+              {
+                "-name": "泸州新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/135463/index_135463.m3u8"
+              },
+              {
+                "-name": "泸州交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/135465/index_135465.m3u8"
+              },
+              {
+                "-name": "泸州音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/135464/index_135464.m3u8"
+              },
+              {
+                "-name": "南充交通音乐广播",
+                "-url": "http://data.kufm.cn/channel2/1341/48"
+              },
+              {
+                "-name": "乐山音乐交通广播",
+                "-url": "http://http.hz.qingting.fm/4864.mp3"
+              },
+              {
+                "-name": "乐山新闻综合频率FM102.8",
+                "-url": "http://http.hz.qingting.fm/1122.mp3"
+              },
+              {
+                "-name": "宜宾私家车广播FM942",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/104851/index_104851.m3u8"
+              },
+              {
+                "-name": "FM98.7仪陇新闻综合广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/135409/index_135409.m3u8"
+              },
+              {
+                "-name": "内江交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/104734/index_104734.m3u8"
+              },
+              {
+                "-name": "遂宁交通音乐天",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/113727/index_113727.m3u8"
+              },
+              {
+                "-name": "遂宁新闻故事广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/113769/index_113769.m3u8"
+              },
+              {
+                "-name": "四川广安交通旅游频率",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.43/radios/105071/index_105071.m3u8"
+              },
+              {
+                "-name": "雅安电台熊猫频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/101158/index_101158.m3u8"
+              },
+              {
+                "-name": "成都驾车调频FM994",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/104886/index_104886.m3u8"
+              },
+              {
+                "-name": "绵阳新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100533/index_100533.m3u8"
+              },
+              {
+                "-name": "乐山新闻综合频率FM102.8",
+                "-url": "http://http.hz.qingting.fm/1122.mp3"
+              },
+              {
+                "-name": "乐山音乐交通广播",
+                "-url": "http://http.hz.qingting.fm/4864.mp3"
+              },
+              {
+                "-name": "成都1051私家车音乐广播",
+                "-url": "http://live.xmcdn.com/live/762/64.m3u8"
+              },
+              {
+                "-name": " 四川快乐900电台",
+                "-url": "http://live.xmcdn.com/live/1641/64.m3u8"
+              },
+              {
+                "-name": "四川城市之音",
+                "-url": "http://live.xmcdn.com/live/755/64.m3u8"
+              },
+              {
+                "-name": "成都环球之声",
+                "-url": "http://live.xmcdn.com/live/761/64.m3u8"
+              },
+              {
+                "-name": " 绵阳交通广播",
+                "-url": "http://live.xmcdn.com/live/766/64.m3u8"
+              },
+              {
+                "-name": "绵阳912女主播电台",
+                "-url": "http://live.xmcdn.com/live/1243/64.m3u8"
+              },
+              {
+                "-name": "江油电台阳光调频",
+                "-url": "http://live.xmcdn.com/live/767/64.m3u8"
+              },
+              {
+                "-name": "攀枝花综合广播",
+                "-url": "http://live.xmcdn.com/live/1064/64.m3u8"
+              },
+              {
+                "-name": "逐宁城市生活广播",
+                "-url": "http://live.xmcdn.com/live/774/64.m3u8"
+              },
+              {
+                "-name": "逐宁交通音乐广播",
+                "-url": "http://live.xmcdn.com/live/775/64.m3u8"
+              },
+              {
+                "-name": "宜宾交通广播",
+                "-url": "http://live.xmcdn.com/live/777/64.m3u8"
+              },
+              {
+                "-name": "凉山新闻综合频率",
+                "-url": "http://live.xmcdn.com/live/780/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "山西",
+            "radio": [
+              {
+                "-name": "912太原新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/23873.mp3"
+              },
+              {
+                "-name": "太原交通台",
+                "-url": "http://http.hz.qingting.fm/4900.mp3"
+              },
+              {
+                "-name": "FM88山西交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100241/index_100241.m3u8"
+              },
+              {
+                "-name": "FM101.5山西文艺广播",
+                "-url": "http://data.kufm.cn/channel2/1246/48"
+              },
+              {
+                "-name": "山西综合广播FM904",
+                "-url": "http://data.kufm.cn/channel2/1243/48"
+              },
+              {
+                "-name": "太原音乐广播",
+                "-url": "http://http.hz.qingting.fm/1185.mp3"
+              },
+              {
+                "-name": "太原私家车Radio",
+                "-url": "http://http.hz.qingting.fm/4018.mp3"
+              },
+              {
+                "-name": "山西音乐广播",
+                "-url": "http://data.kufm.cn/channel2/1250/48"
+              },
+              {
+                "-name": "山西经济广播",
+                "-url": "http://data.kufm.cn/channel2/1245/48"
+              },
+              {
+                "-name": "山西健康之声",
+                "-url": "http://data.kufm.cn/channel2/1248/48"
+              },
+              {
+                "-name": "山西故事广播",
+                "-url": "http://data.kufm.cn/channel2/2523/48"
+              },
+              {
+                "-name": "山西综合广播AM819",
+                "-url": "http://data.kufm.cn/channel2/1243/48"
+              },
+              {
+                "-name": "山西农村广播",
+                "-url": "http://data.kufm.cn/channel2/1249/48"
+              },
+              {
+                "-name": "吕梁交通广播",
+                "-url": "http://http.hz.qingting.fm/4899.mp3"
+              },
+              {
+                "-name": "吕梁新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/4020.mp3"
+              },
+              {
+                "-name": "晋城交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/100236/index_100236.m3u8"
+              },
+              {
+                "-name": "晋城新闻综合广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100237/index_100237.m3u8"
+              },
+              {
+                "-name": "晋城都市之声",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/113871/index_113871.m3u8"
+              },
+              {
+                "-name": "运城新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/1190.mp3"
+              },
+              {
+                "-name": "运城交通文艺频道",
+                "-url": "http://lhttp.qingting.fm/live/1191/64k.mp3"
+              },
+              {
+                "-name": "阳泉综合广播",
+                "-url": "http://http.hz.qingting.fm/3598364.mp3"
+              },
+              {
+                "-name": "阳泉交通广播",
+                "-url": "http://http.hz.qingting.fm/3490241.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "河南",
+            "radio": [
+              {
+                "-name": "郑州新闻广播",
+                "-url": "http://data.kufm.cn/channel2/655/48"
+              },
+              {
+                "-name": "河南第一音乐广播",
+                "-url": "http://data.kufm.cn/channel2/2508/48"
+              },
+              {
+                "-name": "河南交通广播",
+                "-url": "http://live.xmcdn.com/live/463/64.m3u8"
+              },
+              {
+                "-name": "郑州音乐广播经典1079",
+                "-url": "http://data.kufm.cn/channel2/665/48"
+              },
+              {
+                "-name": "FM94.4郑州音乐广播",
+                "-url": "http://data.kufm.cn/channel2/664/48"
+              },
+              {
+                "-name": "魅力881-河南音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100073/index_100073.m3u8"
+              },
+              {
+                "-name": "郑州都市广播汽车912",
+                "-url": "http://data.kufm.cn/channel2/663/48"
+              },
+              {
+                "-name": "驾车调频1066",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100858/index_100858.m3u8"
+              },
+              {
+                "-name": "河南电台FM107.4绿色频道",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100648/index_100648.m3u8"
+              },
+              {
+                "-name": "FM91.8郑州私家车广播",
+                "-url": "http://http.hz.qingting.fm/1222.mp3"
+              },
+              {
+                "-name": "郑州549广播",
+                "-url": "http://data.kufm.cn/channel2/667/48"
+              },
+              {
+                "-name": "商丘交通1007",
+                "-url": "http://http.hz.qingting.fm/2808993.mp3"
+              },
+              {
+                "-name": "活力944郑州音乐广播",
+                "-url": "http://data.kufm.cn/channel2/664/48"
+              },
+              {
+                "-name": "河南电台私家车999",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/113750/index_113750.m3u8"
+              },
+              {
+                "-name": "郑州经典音乐广播FM107.9",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100644/index_100644.m3u8"
+              },
+              {
+                "-name": "河南Myradio",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100643/index_100643.m3u8"
+              },
+              {
+                "-name": "郑州汽车FM91.2",
+                "-url": "http://data.kufm.cn/channel2/663/48"
+              },
+              {
+                "-name": "河南新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100645/index_100645.m3u8"
+              },
+              {
+                "-name": "河南电台107.4慢生活",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100648/index_100648.m3u8"
+              },
+              {
+                "-name": "郑州私家车",
+                "-url": "http://http.hz.qingting.fm/1222.mp3"
+              },
+              {
+                "-name": "车道931郑州经济广播",
+                "-url": "http://http.hz.qingting.fm/1221.mp3"
+              },
+              {
+                "-name": "洛阳新闻广播",
+                "-url": "http://http.hz.qingting.fm/1225.mp3"
+              },
+              {
+                "-name": "洛阳城市广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/104764/index_104764.m3u8"
+              },
+              {
+                "-name": "洛阳交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/104762/index_104762.m3u8"
+              },
+              {
+                "-name": "安阳汽车音乐台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/104974/index_104974.m3u8"
+              },
+              {
+                "-name": "安阳交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/104973/index_104973.m3u8"
+              },
+              {
+                "-name": "鹤壁交通广播快乐935",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/104838/index_104838.m3u8"
+              },
+              {
+                "-name": "鹤壁新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/1229.mp3"
+              },
+              {
+                "-name": "安阳汽车音乐台",
+                "-url": "http://data.kufm.cn/channel2/2396/48"
+              },
+              {
+                "-name": "安阳交通广播",
+                "-url": "http://data.kufm.cn/channel2/699/48"
+              },
+              {
+                "-name": "新乡交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/135537/index_135537.m3u8"
+              },
+              {
+                "-name": "新乡音乐广播",
+                "-url": "http://http.hz.qingting.fm/1229.mp3"
+              },
+              {
+                "-name": "新乡都市之声",
+                "-url": "http://data.kufm.cn/channel2/2396/48"
+              },
+              {
+                "-name": "新乡新闻综合广播",
+                "-url": "http://data.kufm.cn/channel2/699/48"
+              },
+              {
+                "-name": "商丘新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100186/index_100186.m3u8"
+              },
+              {
+                "-name": "河南娱乐976",
+                "-url": "http://live.xmcdn.com/live/464/64.m3u8"
+              },
+              {
+                "-name": "河南信息广播",
+                "-url": "http://live.xmcdn.com/live/1650/64.m3u8"
+              },
+              {
+                "-name": "河南电台城市之声",
+                "-url": "http://live.xmcdn.com/live/469/64.m3u8"
+              },
+              {
+                "-name": "流行音乐先锋FM90.O My Radio",
+                "-url": "http://live.xmcdn.com/live/468/64.m3u8"
+              },
+              {
+                "-name": "郑州电台FM88.9",
+                "-url": "http://live.xmcdn.com/live/473/64.m3u8"
+              },
+              {
+                "-name": "FM93.6天籁之音",
+                "-url": "http://live.xmcdn.com/live/1879/64.m3u8"
+              },
+              {
+                "-name": "洛阳经济广播",
+                "-url": "http://live.xmcdn.com/live/493/64.m3u8"
+              },
+              {
+                "-name": "新乡动听925电台",
+                "-url": "http://live.xmcdn.com/live/1570/64.m3u8"
+              },
+              {
+                "-name": " 南阳电台交通广播",
+                "-url": "http://live.xmcdn.com/live/479/64.m3u8"
+              },
+              {
+                "-name": " 快乐903私家车广播",
+                "-url": "http://live.xmcdn.com/live/2027/64.m3u8"
+              },
+              {
+                "-name": " 登封音乐广播",
+                "-url": "http://live.xmcdn.com/live/2030/64.m3u8"
+              },
+              {
+                "-name": "鹤壁FM99.4私家车广播 乐动调频",
+                "-url": "http://live.xmcdn.com/live/2031/64.m3u8"
+              },
+              {
+                "-name": "三峡新闻广播",
+                "-url": "http://live.xmcdn.com/live/2032/64.m3u8"
+              },
+              {
+                "-name": "济源新闻综合广播",
+                "-url": "http://live.xmcdn.com/live/2034/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "湖北",
+            "radio": [
+              {
+                "-name": "楚天音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100029/index_100029.m3u8"
+              },
+              {
+                "-name": "湖北经典音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100173/index_100173.m3u8"
+              },
+              {
+                "-name": "武汉经济广播",
+                "-url": "http://http.hz.qingting.fm/52758.mp3"
+              },
+              {
+                "-name": "楚天交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100177/index_100177.m3u8"
+              },
+              {
+                "-name": "武汉经典音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100215/index_100215.m3u8"
+              },
+              {
+                "-name": "湖北之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100171/index_100171.m3u8"
+              },
+              {
+                "-name": "湖北私家车广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100174/index_100174.m3u8"
+              },
+              {
+                "-name": "湖北经济广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100172/index_100172.m3u8"
+              },
+              {
+                "-name": "武汉动感936-新锐流行音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100217/index_100217.m3u8"
+              },
+              {
+                "-name": "武汉交通广播",
+                "-url": "http://data.kufm.cn/channel2/748/48"
+              },
+              {
+                "-name": "武汉新闻广播",
+                "-url": "http://data.kufm.cn/channel2/745/48"
+              },
+              {
+                "-name": "武汉1064女主播电台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100221/index_100221.m3u8"
+              },
+              {
+                "-name": "黄石交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/104781/index_104781.m3u8"
+              },
+              {
+                "-name": "黄石新闻频率",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100631/index_100631.m3u8"
+              },
+              {
+                "-name": "襄阳交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/104997/index_104997.m3u8"
+              },
+              {
+                "-name": "襄阳爱听1053",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/105006/index_105006.m3u8"
+              },
+              {
+                "-name": "襄阳之声",
+                "-url": "http://http.hz.qingting.fm/1307.mp3"
+              },
+              {
+                "-name": "襄阳音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/113694/index_113694.m3u8"
+              },
+              {
+                "-name": "荆州之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/113636/index_113636.m3u8"
+              },
+              {
+                "-name": "荆广交通音乐频率丽人音乐",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/105080/index_105080.m3u8"
+              },
+              {
+                "-name": "宜昌新闻综合台",
+                "-url": "http://http.hz.qingting.fm/78211.mp3"
+              },
+              {
+                "-name": "宜昌交通音乐台",
+                "-url": "http://http.hz.qingting.fm/78207.mp3"
+              },
+              {
+                "-name": "宜昌汽车台",
+                "-url": "http://http.hz.qingting.fm/78211.mp3"
+              },
+              {
+                "-name": "十堰交通音乐广播",
+                "-url": "http://http.hz.qingting.fm/61100.mp3"
+              },
+              {
+                "-name": "十堰新闻广播",
+                "-url": "http://http.hz.qingting.fm/61094.mp3"
+              },
+              {
+                "-name": "恩施电台交通综合频率",
+                "-url": "http://http.hz.qingting.fm/4444181.mp3"
+              },
+              {
+                "-name": "恩施电台新闻综合频率",
+                "-url": "http://http.hz.qingting.fm/4444180.mp3"
+              },
+              {
+                "-name": "孝感交通音乐广播",
+                "-url": "http://http.hz.qingting.fm/3048855.mp3"
+              },
+              {
+                "-name": "孝感新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/3049261.mp3"
+              },
+              {
+                "-name": "咸宁新闻广播",
+                "-url": "http://http.hz.qingting.fm/5067.mp3"
+              },
+              {
+                "-name": "咸宁交通广播",
+                "-url": "http://http.hz.qingting.fm/5068.mp3"
+              },
+              {
+                "-name": "随州交通广播",
+                "-url": "http://http.hz.qingting.fm/90657.mp3"
+              },
+              {
+                "-name": "随州新闻台",
+                "-url": "http://http.hz.qingting.fm/85635.mp3"
+              },
+              {
+                "-name": "黄冈广播电视台新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/1301.mp3"
+              },
+              {
+                "-name": "黄梅之声",
+                "-url": "http://http.hz.qingting.fm/3397062.mp3"
+              },
+              {
+                "-name": "公安县广播电台",
+                "-url": "http://http.hz.qingting.fm/5063.mp3"
+              },
+              {
+                "-name": "石首人民广播电台",
+                "-url": "http://data.kufm.cn/channel2/2360/48"
+              },
+              {
+                "-name": "监利人民广播电台",
+                "-url": "http://http.hz.qingting.fm/5433301.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "黑龙江",
+            "radio": [
+              {
+                "-name": "龙广新闻台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.11/radios/100228/index_100228.m3u8"
+              },
+              {
+                "-name": "龙广交通台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100229/index_100229.m3u8"
+              },
+              {
+                "-name": "龙广音乐台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100231/index_100231.m3u8"
+              },
+              {
+                "-name": "龙广都市女性台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/100232/index_100232.m3u8"
+              },
+              {
+                "-name": "龙广私家车广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/100230/index_100230.m3u8"
+              },
+              {
+                "-name": "龙广爱家频道",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100233/index_100233.m3u8"
+              },
+              {
+                "-name": "龙广青苹果之声",
+                "-url": "http://http.hz.qingting.fm/4976.mp3"
+              },
+              {
+                "-name": "龙广乡村台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/100234/index_100234.m3u8"
+              },
+              {
+                "-name": "哈尔滨新闻广播",
+                "-url": "http://http.hz.qingting.fm/23947.mp3"
+              },
+              {
+                "-name": "哈尔滨音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100777/index_100777.m3u8"
+              },
+              {
+                "-name": "哈尔滨交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100787/index_100787.m3u8"
+              },
+              {
+                "-name": "哈尔滨经济广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100291/index_100291.m3u8"
+              },
+              {
+                "-name": "哈尔滨文艺广播",
+                "-url": "http://http.hz.qingting.fm/3955.mp3"
+              },
+              {
+                "-name": "哈尔滨爱尚调频",
+                "-url": "http://http.hz.qingting.fm/90849.mp3"
+              },
+              {
+                "-name": "黑龙江生活广播",
+                "-url": "http://data.kufm.cn/channel2/704/48"
+              },
+              {
+                "-name": "牡丹江综合广播",
+                "-url": "http://http.hz.qingting.fm/3687384.mp3"
+              },
+              {
+                "-name": "牡丹江经济广播",
+                "-url": "http://http.hz.qingting.fm/3687385.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "辽宁",
+            "radio": [
+              {
+                "-name": "辽宁交通广播FM97.5",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/113734/index_113734.m3u8"
+              },
+              {
+                "-name": "辽宁经济广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.43/radios/113733/index_113733.m3u8"
+              },
+              {
+                "-name": "辽宁文艺广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.43/radios/113735/index_113735.m3u8"
+              },
+              {
+                "-name": "辽宁综合广播",
+                "-url": "http://http.hz.qingting.fm/23793.mp3"
+              },
+              {
+                "-name": "辽宁乡村广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/113736/index_113736.m3u8"
+              },
+              {
+                "-name": "辽宁都市广播",
+                "-url": "http://http.hz.qingting.fm/1099.mp3"
+              },
+              {
+                "-name": "沈阳生活广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/100264/index_100264.m3u8"
+              },
+              {
+                "-name": "沈阳交通广播FM98.6",
+                "-url": "http://http.hz.qingting.fm/1101.mp3"
+              },
+              {
+                "-name": "瓢虫台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/113731/index_113731.m3u8"
+              },
+              {
+                "-name": "沈阳新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/100260/index_100260.m3u8"
+              },
+              {
+                "-name": "沈阳经典音乐广播",
+                "-url": "http://http.hz.qingting.fm/3950967.mp3"
+              },
+              {
+                "-name": "抚顺交通台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100799/index_100799.m3u8"
+              },
+              {
+                "-name": "抚顺音乐台",
+                "-url": "http://live.xmcdn.com/live/341/64.m3u8"
+              },
+              {
+                "-name": "丹东新闻频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100256/index_100256.m3u8"
+              },
+              {
+                "-name": "丹东交通频率",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100257/index_100257.m3u8"
+              },
+              {
+                "-name": "盘锦新闻联播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100929/index_100929.m3u8"
+              },
+              {
+                "-name": "盘锦生活娱乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100932/index_100932.m3u8"
+              },
+              {
+                "-name": "盘锦交通文艺广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100930/index_100930.m3u8"
+              },
+              {
+                "-name": "东港新闻综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/135594/index_135594.m3u8"
+              },
+              {
+                "-name": "东港交通生活广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/135404/index_135404.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "河北",
+            "radio": [
+              {
+                "-name": "河北音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100072/index_100072.m3u8"
+              },
+              {
+                "-name": "河北交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100194/index_100194.m3u8"
+              },
+              {
+                "-name": "河北新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100192/index_100192.m3u8"
+              },
+              {
+                "-name": "石家庄音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100226/index_100226.m3u8"
+              },
+              {
+                "-name": "石家庄交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100227/index_100227.m3u8"
+              },
+              {
+                "-name": "石家庄新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/100224/index_100224.m3u8"
+              },
+              {
+                "-name": "石家庄经济广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100225/index_100225.m3u8"
+              },
+              {
+                "-name": "河北农民广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.34/radios/100197/index_100197.m3u8"
+              },
+              {
+                "-name": "河北旅游文化广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100198/index_100198.m3u8"
+              },
+              {
+                "-name": "河北私家车电台907",
+                "-url": "http://http.hz.qingting.fm/4868.mp3"
+              },
+              {
+                "-name": "河北故事广播",
+                "-url": "http://http.hz.qingting.fm/1645.mp3"
+              },
+              {
+                "-name": "河北生活广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100196/index_100196.m3u8"
+              },
+              {
+                "-name": "河北汽车音乐1029",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/135398/index_135398.m3u8"
+              },
+              {
+                "-name": "保定苹果音乐广播FM880",
+                "-url": "http://data.kufm.cn/channel2/2521/48"
+              },
+              {
+                "-name": "保定1058飞扬调频",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/104589/index_104589.m3u8"
+              },
+              {
+                "-name": "保定城市服务广播",
+                "-url": "http://data.kufm.cn/channel2/623/48"
+              },
+              {
+                "-name": "保定交通广播",
+                "-url": "http://data.kufm.cn/channel2/620/48"
+              },
+              {
+                "-name": "保定新闻广播",
+                "-url": "http://data.kufm.cn/channel2/619/48"
+              },
+              {
+                "-name": "保定FM88.4汽车电台",
+                "-url": "http://http.hz.qingting.fm/3865599.mp3"
+              },
+              {
+                "-name": "FM934旅游音乐广播",
+                "-url": "http://http.hz.qingting.fm/3755312.mp3"
+              },
+              {
+                "-name": "1003邯郸大眼睛",
+                "-url": "http://http.hz.qingting.fm/3951.mp3"
+              },
+              {
+                "-name": "邯郸交通广播",
+                "-url": "http://data.kufm.cn/channel2/612/48"
+              },
+              {
+                "-name": "邯鄣新闻综合广播",
+                "-url": "http://data.kufm.cn/channel2/610/48"
+              },
+              {
+                "-name": "邯鄣音乐广播",
+                "-url": "http://data.kufm.cn/channel2/611/48"
+              },
+              {
+                "-name": "秦皇岛924欢乐调频",
+                "-url": "http://http.hz.qingting.fm/85649.mp3"
+              },
+              {
+                "-name": "秦皇岛1038私家车广播",
+                "-url": "http://http.hz.qingting.fm/85651.mp3"
+              },
+              {
+                "-name": "秦皇岛新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/85647.mp3"
+              },
+              {
+                "-name": "秦皇岛交通广播",
+                "-url": "http://http.hz.qingting.fm/85339.mp3"
+              },
+              {
+                "-name": "秦皇岛音乐广播",
+                "-url": "http://http.hz.qingting.fm/84495.mp3"
+              },
+              {
+                "-name": "沧州交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100730/index_100730.m3u8"
+              },
+              {
+                "-name": "沧州音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/135563/index_135563.m3u8"
+              },
+              {
+                "-name": "邢台爱尚986",
+                "-url": "http://http.hz.qingting.fm/2344255.mp3"
+              },
+              {
+                "-name": "衡水交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/113778/index_113778.m3u8"
+              },
+              {
+                "-name": "衡水新闻广播",
+                "-url": "http://http.hz.qingting.fm/3000294.mp3"
+              },
+              {
+                "-name": "衡水沿湖之声961",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/113779/index_113779.m3u8"
+              },
+              {
+                "-name": "张家口交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/100317/index_100317.m3u8"
+              },
+              {
+                "-name": "张家口私家车广播",
+                "-url": "http://http.hz.qingting.fm/2208229.mp3"
+              },
+              {
+                "-name": "张家口986音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.7/radios/113700/index_113700.m3u8"
+              },
+              {
+                "-name": "唐山新闻综合",
+                "-url": "http://live.xmcdn.com/live/506/64.m3u8"
+              },
+              {
+                "-name": "唐山交通文艺",
+                "-url": "http://live.xmcdn.com/live/507/64.m3u8"
+              },
+              {
+                "-name": "唐山音乐广播",
+                "-url": "http://live.xmcdn.com/live/508/64.m3u8"
+              },
+              {
+                "-name": "唐山曹妃甸之声",
+                "-url": "http://live.xmcdn.com/live/509/64.m3u8"
+              },
+              {
+                "-name": "保定经济广播",
+                "-url": "http://live.xmcdn.com/live/518/64.m3u8"
+              },
+              {
+                "-name": "秦皇岛体育音乐广播",
+                "-url": "http://live.xmcdn.com/live/522/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "山东",
+            "radio": [
+              {
+                "-name": "山东经济广播",
+                "-url": "http://http.hz.qingting.fm/60198.mp3"
+              },
+              {
+                "-name": "山东人民广播电台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/100206/index_100206.m3u8"
+              },
+              {
+                "-name": "山东交通广播",
+                "-url": "http://data.kufm.cn/channel2/1148/48"
+              },
+              {
+                "-name": "山东MYFM1050",
+                "-url": "http://data.kufm.cn/channel2/1147/48"
+              },
+              {
+                "-name": "山东女主播电台",
+                "-url": "http://data.kufm.cn/channel2/1146/48"
+              },
+              {
+                "-name": "山东体育广播",
+                "-url": "http://data.kufm.cn/channel2/1151/48"
+              },
+              {
+                "-name": "山东乡村广播",
+                "-url": "http://data.kufm.cn/channel2/1149/48"
+              },
+              {
+                "-name": "山东音乐广播",
+                "-url": "http://data.kufm.cn/channel2/1150/48"
+              },
+              {
+                "-name": "济南新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/100593/index_100593.m3u8"
+              },
+              {
+                "-name": "济南经济广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/100595/index_100595.m3u8"
+              },
+              {
+                "-name": "济南交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/100594/index_100594.m3u8"
+              },
+              {
+                "-name": "济南故事广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/104735/index_104735.m3u8"
+              },
+              {
+                "-name": "青岛新闻广播",
+                "-url": "http://http.hz.qingting.fm/1673.mp3"
+              },
+              {
+                "-name": "青岛广播畅行952",
+                "-url": "http://http.hz.qingting.fm/4956.mp3"
+              },
+              {
+                "-name": "青岛交通广播",
+                "-url": "http://http.hz.qingting.fm/1676.mp3"
+              },
+              {
+                "-name": "FM87.5经典音乐调频",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.10/radios/100597/index_100597.m3u8"
+              },
+              {
+                "-name": "青岛经济广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.10/radios/100276/index_100276.m3u8"
+              },
+              {
+                "-name": "FM96.4青岛私家车电台",
+                "-url": "http://http.hz.qingting.fm/1675.mp3"
+              },
+              {
+                "-name": "滨州新闻广播",
+                "-url": "http://http.hz.qingting.fm/2149733.mp3"
+              },
+              {
+                "-name": "滨州交通广播",
+                "-url": "http://http.hz.qingting.fm/78141.mp3"
+              },
+              {
+                "-name": "潍坊音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/100599/index_100599.m3u8"
+              },
+              {
+                "-name": "潍坊908音乐广播",
+                "-url": "http://http.hz.qingting.fm/1665.mp3"
+              },
+              {
+                "-name": "潍坊最爱调频982",
+                "-url": "http://http.hz.qingting.fm/4865.mp3"
+              },
+              {
+                "-name": "FM107潍坊交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/100602/index_100602.m3u8"
+              },
+              {
+                "-name": "潍坊993私家车广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/113806/index_113806.m3u8"
+              },
+              {
+                "-name": "潍坊新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/100600/index_100600.m3u8"
+              },
+              {
+                "-name": "烟台经济广播私家车",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/100619/index_100619.m3u8"
+              },
+              {
+                "-name": "烟台经济广播",
+                "-url": "http://live.xmcdn.com/live/837/64.m3u8"
+              },
+              {
+                "-name": "烟台新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/100618/index_100618.m3u8"
+              },
+              {
+                "-name": "烟台交通广播",
+                "-url": "http://data.kufm.cn/channel2/1201/48"
+              },
+              {
+                "-name": "济宁新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/100616/index_100616.m3u8"
+              },
+              {
+                "-name": "济宁私家车107",
+                "-url": "http://data.kufm.cn/channel2/1197/48"
+              },
+              {
+                "-name": "济宁交通广播",
+                "-url": "http://data.kufm.cn/channel2/1195/48"
+              },
+              {
+                "-name": "威海文艺广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/106809/index_106809.m3u8"
+              },
+              {
+                "-name": "威海新闻电台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/106808/index_106808.m3u8"
+              },
+              {
+                "-name": "莱芜交通音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/135555/index_135555.m3u8"
+              },
+              {
+                "-name": "莱芜新闻综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.7/radios/135556/index_135556.m3u8"
+              },
+              {
+                "-name": "淄博私家车广播",
+                "-url": "http://http.hz.qingting.fm/1679.mp3"
+              },
+              {
+                "-name": "淄博交通文艺",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/100083/index_100083.m3u8"
+              },
+              {
+                "-name": "淄博新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/100604/index_100604.m3u8"
+              },
+              {
+                "-name": "FM90.7威海音乐广播",
+                "-url": "http://http.hz.qingting.fm/6183396.mp3"
+              },
+              {
+                "-name": "潍坊90.8音乐广播",
+                "-url": "http://http.hz.qingting.fm/6330200.mp3"
+              },
+              {
+                "-name": "济南文化电台",
+                "-url": "http://live.xmcdn.com/live/1284/64.m3u8"
+              },
+              {
+                "-name": "济南Muic887",
+                "-url": "http://live.xmcdn.com/live/799/64.m3u8"
+              },
+              {
+                "-name": "山东文艺广播时尚调频",
+                "-url": "http://live.xmcdn.com/live/801/64.m3u8"
+              },
+              {
+                "-name": "936私家车广播",
+                "-url": "http://live.xmcdn.com/live/806/64.m3u8"
+              },
+              {
+                "-name": "临沂交通旅游广播",
+                "-url": "http://live.xmcdn.com/live/1275/64.m3u8"
+              },
+              {
+                "-name": "FM898烟台汽车音乐广播",
+                "-url": "http://live.xmcdn.com/live/1563/64.m3u8"
+              },
+              {
+                "-name": "FM104.2广播电视台",
+                "-url": "http://live.xmcdn.com/live/830/64.m3u8"
+              },
+              {
+                "-name": "济南Muisic887",
+                "-url": "http://live.xmcdn.com/live/799/64.m3u8"
+              },
+              {
+                "-name": "济南文艺广播",
+                "-url": "http://live.xmcdn.com/live/1284/64.m3u8"
+              },
+              {
+                "-name": "FM91.5时尚音乐调频",
+                "-url": "http://live.xmcdn.com/live/812/64.m3u8"
+              },
+              {
+                "-name": "青岛广播爱车940",
+                "-url": "http://live.xmcdn.com/live/807/64.m3u8"
+              },
+              {
+                "-name": "济宁经典音乐广播",
+                "-url": "http://live.xmcdn.com/live/822/64.m3u8"
+              },
+              {
+                "-name": "FM92.8你的专属音乐调频",
+                "-url": "http://live.xmcdn.com/live/1865/64.m3u8"
+              },
+              {
+                "-name": "FM913专属音乐调频",
+                "-url": "http://live.xmcdn.com/live/1867/64.m3u8"
+              },
+              {
+                "-name": "枣庄新闻综合广播",
+                "-url": "http://live.xmcdn.com/live/796/64.m3u8"
+              },
+              {
+                "-name": "105.7滨州文艺音乐广播",
+                "-url": "http://live.xmcdn.com/live/825/64.m3u8"
+              },
+              {
+                "-name": "东营新闻广播",
+                "-url": "http://live.xmcdn.com/live/852/64.m3u8"
+              },
+              {
+                "-name": "东营经济广播",
+                "-url": "http://live.xmcdn.com/live/859/64.m3u8"
+              },
+              {
+                "-name": "东营交通音乐广播",
+                "-url": "http://live.xmcdn.com/live/835/64.m3u8"
+              },
+              {
+                "-name": "菏泽经济文艺广播",
+                "-url": "http://live.xmcdn.com/live/845/64.m3u8"
+              },
+              {
+                "-name": "无棣人民广播电台",
+                "-url": "http://live.xmcdn.com/live/1286/64.m3u8"
+              },
+              {
+                "-name": "枣庄交通文艺广播",
+                "-url": "http://live.xmcdn.com/live/1287/64.m3u8"
+              },
+              {
+                "-name": "临沂新闻广播",
+                "-url": "http://live.xmcdn.com/live/1291/64.m3u8"
+              },
+              {
+                "-name": "聊城新闻广播",
+                "-url": "http://live.xmcdn.com/live/2113/64.m3u8"
+              },
+              {
+                "-name": "聊城交通广播",
+                "-url": "http://live.xmcdn.com/live/2114/64.m3u8"
+              },
+              {
+                "-name": "聊城音乐广播",
+                "-url": "http://live.xmcdn.com/live/2115/64.m3u8"
+              },
+              {
+                "-name": "FM933曹县人民广播电台",
+                "-url": "http://live.xmcdn.com/live/2116/64.m3u8"
+              },
+              {
+                "-name": "庆云人民广播电台",
+                "-url": "http://live.xmcdn.com/live/2117/64.m3u8"
+              },
+              {
+                "-name": "FM971栖霞人民广播电台",
+                "-url": "http://live.xmcdn.com/live/2120/64.m3u8"
+              },
+              {
+                "-name": "即墨新闻交通电台",
+                "-url": "http://live.xmcdn.com/live/865/64.m3u8"
+              },
+              {
+                "-name": "FM87.5菏泽新闻广播",
+                "-url": "http://live.xmcdn.com/live/2397/64.m3u8"
+              },
+              {
+                "-name": "FM96.1交通音乐广播",
+                "-url": "http://live.xmcdn.com/live/2446/64.m3u8"
+              },
+              {
+                "-name": "邹平新闻交通频率",
+                "-url": "http://live.xmcdn.com/live/1273/64.m3u8"
+              },
+              {
+                "-name": "枣庄魅力877",
+                "-url": "http://live.xmcdn.com/live/1278/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "安徽",
+            "radio": [
+              {
+                "-name": "安徽音乐广播",
+                "-url": "http://http.hz.qingting.fm/1947.mp3"
+              },
+              {
+                "-name": "安徽之声",
+                "-url": "http://http.hz.qingting.fm/4919.mp3"
+              },
+              {
+                "-name": "安徽生活广播",
+                "-url": "http://http.hz.qingting.fm/1948.mp3"
+              },
+              {
+                "-name": "安徽交通广播",
+                "-url": "http://http.hz.qingting.fm/1949.mp3"
+              },
+              {
+                "-name": "合肥故事广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100034/index_100034.m3u8"
+              },
+              {
+                "-name": "安徽农村广播",
+                "-url": "http://http.hz.qingting.fm/1950.mp3"
+              },
+              {
+                "-name": "安徽戏曲广播",
+                "-url": "http://http.hz.qingting.fm/1952.mp3"
+              },
+              {
+                "-name": "安徽旅游广播",
+                "-url": "http://http.hz.qingting.fm/4916.mp3"
+              },
+              {
+                "-name": "合肥交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100255/index_100255.m3u8"
+              },
+              {
+                "-name": "滁州交通音乐广播",
+                "-url": "http://http.hz.qingting.fm/5020.mp3"
+              },
+              {
+                "-name": "滁州新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/5019.mp3"
+              },
+              {
+                "-name": "安庆新闻综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100848/index_100848.m3u8"
+              },
+              {
+                "-name": "安庆交通音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100849/index_100849.m3u8"
+              },
+              {
+                "-name": "黄山新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/1968.mp3"
+              },
+              {
+                "-name": "黄山交通旅游广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/108956/index_108956.m3u8"
+              },
+              {
+                "-name": "池州交通旅游广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100088/index_100088.m3u8"
+              },
+              {
+                "-name": "马鞍山交通广播",
+                "-url": "http://http.hz.qingting.fm/79133.mp3"
+              },
+              {
+                "-name": "芜湖音乐故事广播",
+                "-url": "http://http.hz.qingting.fm/5028.mp3"
+              },
+              {
+                "-name": "安庆交通音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100849/index_100849.m3u8"
+              },
+              {
+                "-name": "安庆新闻综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100848/index_100848.m3u8"
+              },
+              {
+                "-name": "宿州文艺广播",
+                "-url": "http://http.hz.qingting.fm/3563262.mp3"
+              },
+              {
+                "-name": "宿州交通广播",
+                "-url": "http://http.hz.qingting.fm/3563303.mp3"
+              },
+              {
+                "-name": "宿州新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/3563260.mp3"
+              },
+              {
+                "-name": "蚌埠交通文艺广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/104873/index_104873.m3u8"
+              },
+              {
+                "-name": "黄山新闻综合广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/108955/index_108955.m3u8"
+              },
+              {
+                "-name": "黄山交通旅游广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/108956/index_108956.m3u8"
+              },
+              {
+                "-name": "铜陵新闻综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/113728/index_113728.m3u8"
+              },
+              {
+                "-name": "铜陵交通生活广播",
+                "-url": "http://http.hz.qingting.fm/1663837.mp3"
+              },
+              {
+                "-name": "池州新闻综合广播",
+                "-url": "http://data.kufm.cn/channel2/344/48"
+              },
+              {
+                "-name": "池州交通旅游广播",
+                "-url": "http://data.kufm.cn/channel2/345/48"
+              },
+              {
+                "-name": "天长人民广播电台",
+                "-url": "http://data.kufm.cn/channel2/346/48"
+              },
+              {
+                "-name": "滁州交通音乐广播",
+                "-url": "http://http.hz.qingting.fm/5020.mp3"
+              },
+              {
+                "-name": "滁州新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/5019.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "福建",
+            "radio": [
+              {
+                "-name": "厦门音乐广播",
+                "-url": "http://data.kufm.cn/channel2/396/48"
+              },
+              {
+                "-name": "厦门经济交通广播",
+                "-url": "http://data.kufm.cn/channel2/395/48"
+              },
+              {
+                "-name": "厦门新闻广播",
+                "-url": "http://data.kufm.cn/channel2/394/48"
+              },
+              {
+                "-name": "厦门闽南之声广播",
+                "-url": "http://data.kufm.cn/channel2/397/48"
+              },
+              {
+                "-name": "厦门电台94私家车",
+                "-url": "http://http.hz.qingting.fm/1741.mp3"
+              },
+              {
+                "-name": "福州新闻广播",
+                "-url": "http://data.kufm.cn/channel2/402/48"
+              },
+              {
+                "-name": "财经961-福建经济电台",
+                "-url": "http://http.hz.qingting.fm/1732.mp3"
+              },
+              {
+                "-name": "987私家车广播",
+                "-url": "http://http.hz.qingting.fm/1736.mp3"
+              },
+              {
+                "-name": "福建新闻广播",
+                "-url": "http://http.hz.qingting.fm/5025.mp3"
+              },
+              {
+                "-name": "福建东南广播",
+                "-url": "http://http.hz.qingting.fm/1734.mp3"
+              },
+              {
+                "-name": "FM1007福建交通广播",
+                "-url": "http://http.hz.qingting.fm/1733.mp3"
+              },
+              {
+                "-name": "福建汽车音乐调频",
+                "-url": "http://http.hz.qingting.fm/4585.mp3"
+              },
+              {
+                "-name": "福州交通之声",
+                "-url": "http://data.kufm.cn/channel2/400/48"
+              },
+              {
+                "-name": "893女主播电台",
+                "-url": "http://http.hz.qingting.fm/24283.mp3"
+              },
+              {
+                "-name": "福州新闻广播",
+                "-url": "http://http.hz.qingting.fm/5025.mp3"
+              },
+              {
+                "-name": "漳州人民广播电台综合广播",
+                "-url": "http://http.hz.qingting.fm/1742.mp3"
+              },
+              {
+                "-name": "龙岩旅游之声",
+                "-url": "http://http.hz.qingting.fm/80449.mp3"
+              },
+              {
+                "-name": "龙岩新闻综合频道",
+                "-url": "http://data.kufm.cn/channel2/417/48"
+              },
+              {
+                "-name": "厦门892集美广播",
+                "-url": "http://http.hz.qingting.fm/3772633.mp3"
+              },
+              {
+                "-name": "漳浦人民广播电台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/100437/index_100437.m3u8"
+              },
+              {
+                "-name": "泉州904交通之声",
+                "-url": "http://http.hz.qingting.fm/4620992.mp3"
+              },
+              {
+                "-name": "泉州经济生活广播",
+                "-url": "http://data.kufm.cn/channel2/466/48"
+              },
+              {
+                "-name": "福建987私家车广播",
+                "-url": "http://live.xmcdn.com/live/793/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "广西",
+            "radio": [
+              {
+                "-name": "广西970女主播电台",
+                "-url": "http://data.kufm.cn/channel2/528/48"
+              },
+              {
+                "-name": "广西电台新闻910",
+                "-url": "http://http.hz.qingting.fm/1753.mp3"
+              },
+              {
+                "-name": "FM950广西音乐台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100182/index_100182.m3u8"
+              },
+              {
+                "-name": "广西电台交通1003",
+                "-url": "http://data.kufm.cn/channel2/534/48"
+              },
+              {
+                "-name": "广西北部湾之声",
+                "-url": "http://data.kufm.cn/channel2/536/48"
+              },
+              {
+                "-name": "广西私家车930",
+                "-url": "http://http.hz.qingting.fm/1756.mp3"
+              },
+              {
+                "-name": "南宁经典1049",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100523/index_100523.m3u8"
+              },
+              {
+                "-name": "南宁1014新闻台",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100525/index_100525.m3u8"
+              },
+              {
+                "-name": "南宁1074交通台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100524/index_100524.m3u8"
+              },
+              {
+                "-name": "南宁动感895",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/113690/index_113690.m3u8"
+              },
+              {
+                "-name": "北海新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/85653.mp3"
+              },
+              {
+                "-name": "桂林电台最爱912",
+                "-url": "http://http.hz.qingting.fm/4702918.mp3"
+              },
+              {
+                "-name": "桂林新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/1759.mp3"
+              },
+              {
+                "-name": "玉林综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/100522/index_100522.m3u8"
+              },
+              {
+                "-name": "玉林交通音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100521/index_100521.m3u8"
+              },
+              {
+                "-name": "梧州新闻综合频道",
+                "-url": "http://data.kufm.cn/channel2/553/48"
+              },
+              {
+                "-name": "梧州交通音乐之声",
+                "-url": "http://data.kufm.cn/channel2/554/48"
+              },
+              {
+                "-name": "贺州交通音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/101634/index_101634.m3u8"
+              },
+              {
+                "-name": "贵港交通1068",
+                "-url": "http://http.hz.qingting.fm/2794601.mp3"
+              },
+              {
+                "-name": "贵港金曲1019",
+                "-url": "http://http.hz.qingting.fm/80435.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "贵州",
+            "radio": [
+              {
+                "-name": "贵阳新闻综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/101160/index_101160.m3u8"
+              },
+              {
+                "-name": "贵阳交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/101161/index_101161.m3u8"
+              },
+              {
+                "-name": "贵州音乐广播",
+                "-url": "http://data.kufm.cn/channel2/564/48"
+              },
+              {
+                "-name": "贵州都市广播",
+                "-url": "http://data.kufm.cn/channel2/565/48"
+              },
+              {
+                "-name": "贵州故事广播",
+                "-url": "http://data.kufm.cn/channel2/568/48"
+              },
+              {
+                "-name": "贵阳FM91.6音乐广播",
+                "-url": "http://http.hz.qingting.fm/23937.mp3"
+              },
+              {
+                "-name": "贵阳经济广播",
+                "-url": "http://http.hz.qingting.fm/23935.mp3"
+              },
+              {
+                "-name": "贵阳新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/101160/index_101160.m3u8"
+              },
+              {
+                "-name": "贵阳故事广播FM90知道分子",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/105029/index_105029.m3u8"
+              },
+              {
+                "-name": "V-FM106.2汽车广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/104877/index_104877.m3u8"
+              },
+              {
+                "-name": "遵义交通文艺广播",
+                "-url": "http://http.hz.qingting.fm/78221.mp3"
+              },
+              {
+                "-name": "贵阳都市女性频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/101162/index_101162.m3u8"
+              },
+              {
+                "-name": "贵州旅游广播",
+                "-url": "http://live.xmcdn.com/live/363/64.m3u8"
+              },
+              {
+                "-name": "贵州经济广播",
+                "-url": "http://live.xmcdn.com/live/359/64.m3u8"
+              },
+              {
+                "-name": "贵州新闻综合广播",
+                "-url": "http://live.xmcdn.com/live/365/64.m3u8"
+              },
+              {
+                "-name": "贵州交通广播",
+                "-url": "http://live.xmcdn.com/live/362/64.m3u8"
+              },
+              {
+                "-name": "贵州综合广播",
+                "-url": "http://live.xmcdn.com/live/358/64.m3u8"
+              },
+              {
+                "-name": "贵州威宁阳光945",
+                "-url": "http://live.xmcdn.com/live/2090/64.m3u8"
+              },
+              {
+                "-name": "动感909",
+                "-url": "http://live.xmcdn.com/live/368/64.m3u8"
+              },
+              {
+                "-name": "大方综合广播",
+                "-url": "http://live.xmcdn.com/live/1904/64.m3u8"
+              },
+              {
+                "-name": "黔西南交通旅游广播",
+                "-url": "http://live.xmcdn.com/live/370/64.m3u8"
+              },
+              {
+                "-name": "中国知道分子广播",
+                "-url": "http://live.xmcdn.com/live/371/64.m3u8"
+              },
+              {
+                "-name": "七星关综合广播",
+                "-url": "http://live.xmcdn.com/live/1309/64.m3u8"
+              },
+              {
+                "-name": "凯里人民广播电台",
+                "-url": "http://live.xmcdn.com/live/1310/64.m3u8"
+              },
+              {
+                "-name": "黔东南新闻综合广播",
+                "-url": "http://live.xmcdn.com/live/2086/64.m3u8"
+              },
+              {
+                "-name": "安顺交通广播Fm102.9",
+                "-url": "http://live.xmcdn.com/live/2087/64.m3u8"
+              },
+              {
+                "-name": "黔东南交通广播FM89.8",
+                "-url": "http://live.xmcdn.com/live/2089/64.m3u8"
+              },
+              {
+                "-name": "黔南新闻交通广播FM98.0",
+                "-url": "http://live.xmcdn.com/live/2092/64.m3u8"
+              },
+              {
+                "-name": "遵义旅游生活广播",
+                "-url": "http://live.xmcdn.com/live/374/64.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "云南",
+            "radio": [
+              {
+                "-name": "云南交通之声",
+                "-url": "http://data.kufm.cn/channel2/1446/48"
+              },
+              {
+                "-name": "云南新闻广播",
+                "-url": "http://data.kufm.cn/channel2/1444/48"
+              },
+              {
+                "-name": "云南私家车电台",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100718/index_100718.m3u8"
+              },
+              {
+                "-name": "香格里拉之声",
+                "-url": "http://http.hz.qingting.fm/24461.mp3"
+              },
+              {
+                "-name": "昆明NEW FM102.8",
+                "-url": "http://http.hz.qingting.fm/1935.mp3"
+              },
+              {
+                "-name": "文山交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/113763/index_113763.m3u8"
+              },
+              {
+                "-name": "红河综合广播",
+                "-url": "http://http.hz.qingting.fm/4033.mp3"
+              },
+              {
+                "-name": "德宏广播电视台综合广播",
+                "-url": "http://live.xmcdn.com/live/928/64.m3u8"
+              },
+              {
+                "-name": "德宏民语综合广播",
+                "-url": "http://live.xmcdn.com/live/929/64.m3u8"
+              },
+              {
+                "-name": "德宏交通旅游广播",
+                "-url": "http://live.xmcdn.com/live/1507/64.m3u8"
+              },
+              {
+                "-name": "丽江旅游交通广播FM977",
+                "-url": "http://http.hz.qingting.fm/3961961.mp3"
+              },
+              {
+                "-name": "丽江新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/4744157.mp3"
+              },
+              {
+                "-name": "大理电台苍洱调频",
+                "-url": "http://http.hz.qingting.fm/1940.mp3"
+              },
+              {
+                "-name": "保山广播电视台FM98.7综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/100110/index_100110.m3u8"
+              },
+              {
+                "-name": "云南经济广播",
+                "-url": "http://data.kufm.cn/channel2/1445/48"
+              },
+              {
+                "-name": "云南音乐广播",
+                "-url": "http://data.kufm.cn/channel2/1447/48"
+              },
+              {
+                "-name": "云南少儿广播",
+                "-url": "http://data.kufm.cn/channel2/1449/48"
+              },
+              {
+                "-name": "新知100知道分子频道",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100868/index_100868.m3u8"
+              },
+              {
+                "-name": "云南民族广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100719/index_100719.m3u8"
+              },
+              {
+                "-name": "昆明汽车广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100802/index_100802.m3u8"
+              },
+              {
+                "-name": "FM105知道分子广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/104912/index_104912.m3u8"
+              },
+              {
+                "-name": "昆明都市调频",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100804/index_100804.m3u8"
+              },
+              {
+                "-name": "FM1008新闻资讯广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100803/index_100803.m3u8"
+              },
+              {
+                "-name": "普洱电台综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100298/index_100298.m3u8"
+              },
+              {
+                "-name": "普洱电台新闻广播",
+                "-url": "http://http.hz.qingting.fm/1938.mp3"
+              },
+              {
+                "-name": "红河交通广播",
+                "-url": "http://http.hz.qingting.fm/4994.mp3"
+              },
+              {
+                "-name": "楚雄音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.7/radios/104868/index_104868.m3u8"
+              },
+              {
+                "-name": "楚雄新闻广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/104833/index_104833.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "江西",
+            "radio": [
+              {
+                "-name": "江西新闻广播",
+                "-url": "http://http.hz.qingting.fm/1809.mp3"
+              },
+              {
+                "-name": "江西民生广播",
+                "-url": "http://http.hz.qingting.fm/1813.mp3"
+              },
+              {
+                "-name": "江西交通广播",
+                "-url": "http://http.hz.qingting.fm/1811.mp3"
+              },
+              {
+                "-name": "江西音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100583/index_100583.m3u8"
+              },
+              {
+                "-name": "江西绿色985",
+                "-url": "http://http.hz.qingting.fm/4606.mp3"
+              },
+              {
+                "-name": "江西MY FM96.9",
+                "-url": "http://http.hz.qingting.fm/61636.mp3"
+              },
+              {
+                "-name": "江西都市广播 FM106.5",
+                "-url": "http://http.hz.qingting.fm/1810.mp3"
+              },
+              {
+                "-name": "赣州交通音乐频率",
+                "-url": "http://http.hz.qingting.fm/4942.mp3"
+              },
+              {
+                "-name": "南昌交通广播",
+                "-url": "http://live.xmcdn.com/live/618/64.m3u8"
+              },
+              {
+                "-name": "赣州综合广播",
+                "-url": "http://http.hz.qingting.fm/60286.mp3"
+              },
+              {
+                "-name": "江西旅游广播FM97.4",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/113698/index_113698.m3u8"
+              },
+              {
+                "-name": "江西财经广播成功992",
+                "-url": "http://http.hz.qingting.fm/60336.mp3"
+              },
+              {
+                "-name": "FM99.2赣州交通广播",
+                "-url": "http://http.hz.qingting.fm/4941.mp3"
+              },
+              {
+                "-name": "南昌One Radio 1009",
+                "-url": "http://http.hz.qingting.fm/1176541.mp3"
+              },
+              {
+                "-name": "九江交通广播",
+                "-url": "http://http.hz.qingting.fm/2785094.mp3"
+              },
+              {
+                "-name": "909私家车悦电台",
+                "-url": "http://http.hz.qingting.fm/3543568.mp3"
+              },
+              {
+                "-name": "江西私家车1065",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/100582/index_100582.m3u8"
+              },
+              {
+                "-name": "南昌快乐897",
+                "-url": "http://http.hz.qingting.fm/2697476.mp3"
+              },
+              {
+                "-name": "上饶新闻934 City FM",
+                "-url": "http://http.hz.qingting.fm/1808.mp3"
+              },
+              {
+                "-name": "上饶交通966 Smile Radio",
+                "-url": "http://http.hz.qingting.fm/1807.mp3"
+              },
+              {
+                "-name": "南昌凤凰879",
+                "-url": "http://live.xmcdn.com/live/619/64.m3u8"
+              },
+              {
+                "-name": "九江新闻广播",
+                "-url": "http://http.hz.qingting.fm/4474799.mp3"
+              },
+              {
+                "-name": "九江柴桑之声FM91.0",
+                "-url": "http://http.hz.qingting.fm/2251313.mp3"
+              },
+              {
+                "-name": "新余新闻广播",
+                "-url": "http://http.hz.qingting.fm/1809.mp3"
+              },
+              {
+                "-name": "南昌交通音乐频率",
+                "-url": "http://live.xmcdn.com/live/618/64.m3u8"
+              },
+              {
+                "-name": "赣北音乐广播",
+                "-url": "http://http.hz.qingting.fm/4942.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "吉林",
+            "radio": [
+              {
+                "-name": "吉林交通广播",
+                "-url": "http://http.hz.qingting.fm/4945.mp3"
+              },
+              {
+                "-name": "吉林经济广播",
+                "-url": "http://data.kufm.cn/channel2/829/48"
+              },
+              {
+                "-name": "吉林乡村广播",
+                "-url": "http://data.kufm.cn/channel2/830/48"
+              },
+              {
+                "-name": "吉林资讯广播",
+                "-url": "http://data.kufm.cn/channel2/832/48"
+              },
+              {
+                "-name": "吉林教育广播-人文963",
+                "-url": "http://data.kufm.cn/channel2/835/48"
+              },
+              {
+                "-name": "吉林健康娱乐广播",
+                "-url": "http://data.kufm.cn/channel2/833/48"
+              },
+              {
+                "-name": "吉林新闻综合广播",
+                "-url": "http://data.kufm.cn/channel2/827/48"
+              },
+              {
+                "-name": "吉林市人民广播电台经济频率",
+                "-url": "http://data.kufm.cn/channel2/829/48"
+              },
+              {
+                "-name": "吉林市人民广播电台旅游广播",
+                "-url": "http://data.kufm.cn/channel2/834/48"
+              },
+              {
+                "-name": "吉林市人民广播电台交通音乐广播",
+                "-url": "http://data.kufm.cn/channel2/831/48"
+              },
+              {
+                "-name": "延广交通文艺台",
+                "-url": "http://data.kufm.cn/channel2/2514/48"
+              },
+              {
+                "-name": "延吉交通之声",
+                "-url": "http://data.kufm.cn/channel2/2514/48"
+              },
+              {
+                "-name": "延边新闻广播",
+                "-url": "http://http.hz.qingting.fm/3823440.mp3"
+              },
+              {
+                "-name": "延边文艺生活广播(朝鲜语)",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100280/index_100280.m3u8"
+              },
+              {
+                "-name": "长春生活故事广播",
+                "-url": "http://http.hz.qingting.fm/5014.mp3"
+              },
+              {
+                "-name": "长春新闻广播",
+                "-url": "http://http.hz.qingting.fm/5013.mp3"
+              },
+              {
+                "-name": "长春乡村广播",
+                "-url": "http://http.hz.qingting.fm/5015.mp3"
+              },
+              {
+                "-name": "长春MYFM88.0",
+                "-url": "http://live.xmcdn.com/live/438/64.m3u8"
+              },
+              {
+                "-name": "吉林市都市110 FM90.3",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100514/index_100514.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "甘肃",
+            "radio": [
+              {
+                "-name": "甘肃经济广播",
+                "-url": "http://http.hz.qingting.fm/4045.mp3"
+              },
+              {
+                "-name": "甘肃农村广播",
+                "-url": "http://http.hz.qingting.fm/3941.mp3"
+              },
+              {
+                "-name": "甘肃交通广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/100845/index_100845.m3u8"
+              },
+              {
+                "-name": "甘肃青春调频",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/105057/index_105057.m3u8"
+              },
+              {
+                "-name": "兰州幸福调频1008私家车广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/100450/index_100450.m3u8"
+              },
+              {
+                "-name": "兰州新闻广播",
+                "-url": "http://http.hz.qingting.fm/1712.mp3"
+              },
+              {
+                "-name": "甘肃都市调频快乐1066",
+                "-url": "http://http.hz.qingting.fm/2624129.mp3"
+              },
+              {
+                "-name": "甘肃新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/4293083.mp3"
+              },
+              {
+                "-name": "甘肃都市调频经典102.2",
+                "-url": "http://http.hz.qingting.fm/2701563.mp3"
+              },
+              {
+                "-name": "张掖新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/3126733.mp3"
+              },
+              {
+                "-name": "天水新闻综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.44/radios/113860/index_113860.m3u8"
+              },
+              {
+                "-name": "品味937天水音乐文艺广播",
+                "-url": "http://http.hz.qingting.fm/1536851.mp3"
+              },
+              {
+                "-name": "兰州交通音乐",
+                "-url": "http://http.hz.qingting.fm/1711.mp3"
+              },
+              {
+                "-name": "白银人民广播电台",
+                "-url": "http://data.kufm.cn/channel2/433/48"
+              }
+            ]
+          },
+          {
+            "-name": "陕西",
+            "radio": [
+              {
+                "-name": "陕西音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100077/index_100077.m3u8"
+              },
+              {
+                "-name": "陕西交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100120/index_100120.m3u8"
+              },
+              {
+                "-name": "陕西新闻广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100118/index_100118.m3u8"
+              },
+              {
+                "-name": "陕西896汽车调频",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100119/index_100119.m3u8"
+              },
+              {
+                "-name": "陕西都市广播",
+                "-url": "http://http.hz.qingting.fm/1609.mp3"
+              },
+              {
+                "-name": "陕西故事广播",
+                "-url": "http://http.hz.qingting.fm/1608.mp3"
+              },
+              {
+                "-name": "陕西戏曲广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100078/index_100078.m3u8"
+              },
+              {
+                "-name": "陕西秦腔广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100997/index_100997.m3u8"
+              },
+              {
+                "-name": "陕西农村广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/100121/index_100121.m3u8"
+              },
+              {
+                "-name": "西安资讯广播",
+                "-url": "http://http.hz.qingting.fm/1613.mp3"
+              },
+              {
+                "-name": "西安交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100796/index_100796.m3u8"
+              },
+              {
+                "-name": "西安音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100123/index_100123.m3u8"
+              },
+              {
+                "-name": "咸阳西咸之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.43/radios/135706/index_135706.m3u8"
+              },
+              {
+                "-name": "西安MYFM105.5",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/100794/index_100794.m3u8"
+              },
+              {
+                "-name": "宝鸡音乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/100831/index_100831.m3u8"
+              },
+              {
+                "-name": "宝鸡经济广播",
+                "-url": "http://http.hz.qingting.fm/4530130.mp3"
+              },
+              {
+                "-name": "宝鸡新闻广播",
+                "-url": "http://http.hz.qingting.fm/4530125.mp3"
+              },
+              {
+                "-name": "渭南交通广播",
+                "-url": "http://http.hz.qingting.fm/3551580.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "宁夏",
+            "radio": [
+              {
+                "-name": "宁夏交通广播",
+                "-url": "http://http.hz.qingting.fm/1840.mp3"
+              },
+              {
+                "-name": "宁夏经济广播",
+                "-url": "http://http.hz.qingting.fm/1841.mp3"
+              },
+              {
+                "-name": "宁夏都市广播",
+                "-uurl": "http://http.hz.qingting.fm/1842.mp3"
+              },
+              {
+                "-name": "宁夏新闻广播",
+                "-url": "http://http.hz.qingting.fm/1839.mp3"
+              },
+              {
+                "-name": "银川新闻综合广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/135405/index_135405.m3u8"
+              },
+              {
+                "-name": "银川交通音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/135406/index_135406.m3u8"
+              },
+              {
+                "-name": "银川都市经济广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.6/radios/135407/index_135407.m3u8"
+              },
+              {
+                "-name": "石嘴山综合广播",
+                "-url": "http://http.hz.qingting.fm/4063612.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "内蒙古",
+            "radio": [
+              {
+                "-name": "包头汽车音乐广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100306/index_100306.m3u8"
+              },
+              {
+                "-name": "包头生活娱乐广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100305/index_100305.m3u8"
+              },
+              {
+                "-name": "包头交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.33/radios/100304/index_100304.m3u8"
+              },
+              {
+                "-name": "呼和浩特交通广播",
+                "-url": "http://http.hz.qingting.fm/2218715.mp3"
+              },
+              {
+                "-name": "呼和浩特城市生活广播",
+                "-url": "http://http.hz.qingting.fm/2218717.mp3"
+              },
+              {
+                "-name": "呼和浩特新闻综合广播",
+                "-url": "http://http.hz.qingting.fm/2218711.mp3"
+              },
+              {
+                "-name": "包头新闻综合广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.33/radios/100303/index_100303.m3u8"
+              },
+              {
+                "-name": "赤峰蒙语广播",
+                "-url": "http://http.hz.qingting.fm/1897.mp3"
+              },
+              {
+                "-name": "赤峰综合广播",
+                "-url": "http://http.hz.qingting.fm/1896.mp3"
+              },
+              {
+                "-name": "赤峰交通广播",
+                "-url": "http://http.hz.qingting.fm/1899.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "海南",
+            "radio": [
+              {
+                "-name": "海南音乐广播",
+                "-url": "http://http.hz.qingting.fm/4878.mp3"
+              },
+              {
+                "-name": "海南交通广播",
+                "-url": "http://http.hz.qingting.fm/4911.mp3"
+              },
+              {
+                "-name": "海南新闻广播",
+                "-url": "http://http.hz.qingting.fm/1861.mp3"
+              },
+              {
+                "-name": "海南民生广播",
+                "-url": "http://http.hz.qingting.fm/1511803.mp3"
+              },
+              {
+                "-name": "三亚之声",
+                "-url": "http://http.hz.qingting.fm/4656627.mp3"
+              },
+              {
+                "-name": "琼海人民广播电台",
+                "-url": "http://http.hz.qingting.fm/3405172.mp3"
+              },
+              {
+                "-name": "国际旅游岛之声",
+                "-url": "http://http.hz.qingting.fm/1862.mp3"
+              }
+            ]
+          },
+          {
+            "-name": "西藏",
+            "radio": [
+              {
+                "-name": "西藏都市生活广播",
+                "-url": "http://data.kufm.cn/channel2/1402/48"
+              },
+              {
+                "-name": "西藏藏语广播",
+                "-url": "http://data.kufm.cn/channel2/1403/48"
+              },
+              {
+                "-name": "西藏汉语频道",
+                "-url": "http://data.kufm.cn/channel2/1401/48"
+              },
+              {
+                "-name": "拉萨人民广播电台914",
+                "-url": "http://http.hz.qingting.fm/3244137.mp3"
+              },
+              {
+                "-name": "西藏康巴话广播",
+                "-url": "http://data.kufm.cn/channel2/1404/48"
+              }
+            ]
+          },
+          {
+            "-name": "青海",
+            "radio": [
+              {
+                "-name": "青海交通音乐",
+                "-url": "http://http.hz.qingting.fm/5009.mp3"
+              },
+              {
+                "-name": "青海生活广播",
+                "-url": "http://http.hz.qingting.fm/2163891.mp3"
+              },
+              {
+                "-name": "青海经济广播",
+                "-url": "http://http.hz.qingting.fm/5008.mp3"
+              },
+              {
+                "-name": "西宁交通频率",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/135603/index_135603.m3u8"
+              },
+              {
+                "-name": "西宁私家车音乐频道",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.7/radios/135604/index_135604.m3u8"
+              },
+              {
+                "-name": "西宁旅游频率",
+                "-url": "http://audio1.china-plus.net:31080/10.102.60.7/radios/135601/index_135601.m3u8"
+              },
+              {
+                "-name": "西宁新闻频率",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.7/radios/135602/index_135602.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "新疆",
+            "radio": [
+              {
+                "-name": "新疆交通广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/101398/index_101398.m3u8"
+              },
+              {
+                "-name": "新疆929私家车广播",
+                "-url": "http://http.hz.qingting.fm/1909.mp3"
+              },
+              {
+                "-name": "新疆电台维语交通文艺广播",
+                "-url": "http://http.hz.qingting.fm/78923.mp3"
+              },
+              {
+                "-name": "新疆FM88.2 兵团之声",
+                "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/135558/index_135558.m3u8"
+              },
+              {
+                "-name": "伊犁FM99.5 城市音乐广播",
+                "-url": "http://http.hz.qingting.fm/4286673.mp3"
+              },
+              {
+                "-name": "新疆990新闻音乐广播",
+                "-url": "http://http.hz.qingting.fm/89881.mp3"
+              },
+              {
+                "-name": "新疆兵团第十三师调频广播",
+                "-url": "http://http.hz.qingting.fm/3892525.mp3"
+              },
+              {
+                "-name": "新疆蒙柯语广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/135435/index_135435.m3u8"
+              },
+              {
+                "-name": "新疆哈语广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/101400/index_101400.m3u8"
+              },
+              {
+                "-name": "新疆城市广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/100033/index_100033.m3u8"
+              },
+              {
+                "-name": "新疆MYFM1039",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/101399/index_101399.m3u8"
+              },
+              {
+                "-name": "乌鲁木齐新闻广播",
+                "-url": "http://http.hz.qingting.fm/1918.mp3"
+              },
+              {
+                "-name": "乌鲁木齐974交通广播",
+                "-url": "http://http.hz.qingting.fm/1919.mp3"
+              },
+              {
+                "-name": "乌鲁木齐旅游音乐",
+                "-url": "http://http.hz.qingting.fm/1920.mp3"
+              },
+              {
+                "-name": "乌鲁木齐经济广播",
+                "-url": "http://http.hz.qingting.fm/1921.mp3"
+              },
+              {
+                "-name": "乌鲁木齐综合广播",
+                "-url": "http://audio2.china-plus.net:31080/10.102.62.13/radios/100406/index_100406.m3u8"
+              },
+              {
+                "-name": "乌鲁木齐维语广播",
+                "-url": "http://audio1.china-plus.net:31080/10.102.62.13/radios/100407/index_100407.m3u8"
+              }
+            ]
+          },
+          {
+            "-name": "香港",
+            "radio": [
+              {
+                "-name": "香港电台普通话台",
+                "-url": "http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8"
+              },
+              {
+                "-name": "香港电台一台",
+                "-url": "http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-b.m3u8"
+              },
+              {
+                "-name": "香港电台二台",
+                "-url": "http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-b.m3u8"
+              },
+              {
+                "-name": "香港电台三台",
+                "-url": "http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-b.m3u8"
+              },
+              {
+                "-name": "香港电台四台",
+                "-url": "http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/index_56_a-p.m3u8"
+              },
+              {
+                "-name": "香港电台五台",
+                "-url": "http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-b.m3u8"
+              },
+              {
+                "-name": "新城资讯台",
+                "-url": "http://metroradio-lh.akamaihd.net/i/997_h@349799/index_48_a-b.m3u8"
+              },
+              {
+                "-name": "新城财经台",
+                "-url": "http://metroradio-lh.akamaihd.net/i/104_h@349798/index_48_a-b.m3u8"
+              },
+              {
+                "-name": "新城采讯台",
+                "-url": "http://metroradio-lh.akamaihd.net/i/1044_h@349800/index_48_a-b.m3u8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "-type": "network",
+        "radio": [
+          {
+            "-name": "青苹果音乐台",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.11/radios/104723/index_104723.m3u8"
+          },
+          {
+            "-name": "AsiaFM亚洲音乐台",
+            "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/105078/index_105078.m3u8"
+          },
+          {
+            "-name": "萤火虫网络电台",
+            "-url": "http://data.kufm.cn/channel2/12/48"
+          },
+          {
+            "-name": "清晨音乐台",
+            "-url": "http://data.kufm.cn/channel2/37/48"
+          },
+          {
+            "-name": "王菲音乐台",
+            "-url": "http://data.kufm.cn/channel2/1954/48"
+          },
+          {
+            "-name": "麦霸电台",
+            "-url": "http://data.kufm.cn/channel2/1986/48"
+          },
+          {
+            "-name": "OnFM线上音乐台",
+            "-url": "http://audio1.china-plus.net:31080/10.102.62.12/radios/105077/index_105077.m3u8"
+          },
+          {
+            "-name": "中国豫剧广播",
+            "-url": "http://audio2.china-plus.net:31080/10.102.62.12/radios/113648/index_113648.m3u8"
+          },
+          {
+            "-name": "500首华语经典",
+            "-url": "http://http.hz.qingting.fm/3412131.mp3"
+          },
+          {
+            "-name": "iRadio音乐台iPlay",
+            "-url": "http://audio2.china-plus.net:31080/10.102.62.34/radios/105128/index_105128.m3u8"
+          },
+          {
+            "-name": "Auto FM汽车广播",
+            "-url": "http://http.hz.qingting.fm/5878286.mp3"
+          },
+          {
+            "-name": "酷狗热歌电台",
+            "-url": "http://data.kufm.cn/channel2/1985/48"
+          },
+          {
+            "-name": "AsiaFM HD音乐台",
+            "-url": "http://audio2.china-plus.net:31080/10.102.60.6/radios/105078/index_105078.m3u8"
+          },
+          {
+            "-name": "蝠声综合广播",
+            "-url": "http://data.kufm.cn/channel2/2080/48"
+          },
+          {
+            "-name": "轻音乐电台",
+            "-url": "http://data.kufm.cn/channel2/1991/48"
+          },
+          {
+            "-name": "心约之声公益广播",
+            "-url": "http://live.xmcdn.com/live/1033/64.m3u8"
+          },
+          {
+            "-name": "江苏金陵之声",
+            "-url": "http://http.hz.qingting.fm/1512937.mp3"
+          },
+          {
+            "-name": "icar快车道FM",
+            "-url": "http://data.kufm.cn/channel2/8/48"
+          },
+          {
+            "-name": "动漫音乐电台",
+            "-url": "http://data.kufm.cn/channel2/2012/48"
+          },
+          {
+            "-name": "粤来粤爱",
+            "-url": "http://data.kufm.cn/channel2/2541/48"
+          },
+          {
+            "-name": "河南电台网络戏曲广播",
+            "-url": "http://http.hz.qingting.fm/5100875.mp3"
+          },
+          {
+            "-name": "戏剧精选频道",
+            "-url": "http://data.kufm.cn/channel2/2082/48"
+          },
+          {
+            "-name": "亚洲偶像榜",
+            "-url": "http://http.hz.qingting.fm/3412131.mp3"
+          },
+          {
+            "-name": "怀旧金曲频道",
+            "-url": "http://data.kufm.cn/channel2/1946/48"
+          },
+          {
+            "-name": "经典粤语金曲电台",
+            "-url": "http://data.kufm.cn/channel2/1990/48"
+          },
+          {
+            "-name": "郭德纲相声频道",
+            "-url": "http://data.kufm.cn/channel2/1974/48"
+          },
+          {
+            "-name": "单身情歌电台",
+            "-url": "http://data.kufm.cn/channel2/1988/48"
+          },
+          {
+            "-name": "名家相声精选",
+            "-url": "http://data.kufm.cn/channel2/2096/48"
+          },
+          {
+            "-name": "儿歌电台",
+            "-url": "http://data.kufm.cn/channel2/2013/48"
+          }
+        ]
+      },
+      {
+        "-type": "abroad",
+        "country":[
+          {
+            "-name": "US",
+            "radio": [
+              {
+                "-name": "938LIVE",
+                "-url": "http://mediacorp.rastream.com/938fm.iphone"
+              },
+              {
+                "-name": "987",
+                "-url": "http://mediacorp.rastream.com/987fm.iphone"
+              },
+              {
+                "-name": "Capital 95.8",
+                "-url": "http://mediacorp.rastream.com/958fm.iphone"
+              },
+              {
+                "-name": "Class",
+                "-url": "http://mediacorp.rastream.com/950fm.iphone"
+              },
+              {
+                "-name": "Gold",
+                "-url": "http://mediacorp.rastream.com/905fm.iphone"
+              },
+              {
+                "-name": "Kiss 92",
+                "-url": "http://sph.rastream.com/sph-kiss92.iphone"
+              },
+              {
+                "-name": "Love 97.2",
+                "-url": "http://mediacorp.rastream.com/972fm.iphone"
+              },
+              {
+                "-name": "OLi 96.8",
+                "-url": "http://mediacorp.rastream.com/968fm.iphone"
+              },
+              {
+                "-name": "ONE FM 91.3",
+                "-url": "http://sph.rastream.com/913fm.iphone"
+              },
+              {
+                "-name": "Power 98",
+                "-url": "http://19053.live.streamtheworld.com:80/POWER98AAC_SC"
+              },
+              {
+                "-name": "Ria 89.7",
+                "-url": "http://mediacorp.rastream.com/897fm.iphone"
+              },
+              {
+                "-name": "Symphony 92.4",
+                "-url": "http://mediacorp.rastream.com/924fm.iphone"
+              },
+              {
+                "-name": "UFM 1003",
+                "-url": "http://sph.rastream.com/1003fm.iphone"
+              },
+              {
+                "-name": "Warna 94.2",
+                "-url": "http://mediacorp.rastream.com/942fm.iphone"
+              },
+              {
+                "-name": "YES 933",
+                "-url": "http://mediacorp.rastream.com/933fm.iphone"
+              },
+              {
+                "-name": "Wild Rock Radio",
+                "-url": "http://bigrradio-edge1.cdnstream.com/5146_128"
+              },
+              {
+                "-name": "VAC Radio",
+                "-url": "http://ic2253.c1031.fast-serv.com/stream"
+              },
+              {
+                "-name": "80s Metal - Best Net Radio",
+                "-url": "http://bigrradio-edge1.cdnstream.com/5146_128"
+              },
+              {
+                "-name": "Mix 96",
+                "-url": "http://str3.sad.ukrd.com/mix96?ts=1508406787"
+              },
+              {
+                "-name": "BBC 5 Live",
+                "-url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p"
+              },
+              {
+                "-name": "BBC Radio 4",
+                "-url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p"
+              },
+              {
+                "-name": "HardRadio",
+                "-url": "http://144.217.29.205/live?icy=http"
+              },
+              {
+                "-name": "The Beat(HipHop R&B) - 181.FM",
+                "-url": "http://181fm-edge1.cdnstream.com/181-beat_128k.mp3"
+              },
+              {
+                "-name": "Country Oldies - Best Net Radio",
+                "-url": "http://bigrradio-edge1.cdnstream.com/5158_128"
+              },
+              {
+                "-name": "JONAS BLUE",
+                "-url": "http://air.radiorecord.ru:8101/rr_128"
+              },
+              {
+                "-name": "Joint Radio",
+                "-url": "http://radio.jointil.net:9998/stream?type=http&nocache=22596"
+              },
+              {
+                "-name": "Bect FM",
+                "-url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps"
+              },
+              {
+                "-name": "DR P3",
+                "-url": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3"
+              },
+              {
+                "-name": "BBC 6 Music",
+                "-url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p"
+              },
+              {
+                "-name": "Solo Piano Radio",
+                "-url": "http://pianosolo.streamguys.net:80/live"
+              },
+              {
+                "-name": "KNOX News Radio",
+                "-url": "http://icy1.abacast.com/leighton-knoxamaac-64"
+              },
+              {
+                "-name": "3AW 693",
+                "-url": "http://melb3awaud-lh.akamaihd.net/i/melbourneaud_1@109380/master.m3u8"
+              },
+              {
+                "-name": "Hip Hop - 100hitz",
+                "-url": "http://173.244.215.162:8170/listen.pls"
+              },
+              {
+                "-name": "80s Metal FM - BigR",
+                "-url": "http://bigrradio.cdnstream1.com/listen.pls"
+              },
+              {
+                "-name": "BBC Radio 2",
+                "-url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p"
+              },
+              {
+                "-name": "GotRadio - Hip Hop Stop",
+                "-url": "http://173.244.215.162:8140/listen.pls"
+              },
+              {
+                "-name": "esRadio(Madrid)",
+                "-url": "http://livestreaming.esradio.fm/stream64.mp3"
+              },
+              {
+                "-name": "Reggae141",
+                "-url": "http://hestia2.cdnstream.com/1301_128"
+              },
+              {
+                "-name": "Top 40 - 100Hitz",
+                "-url": "http://173.244.215.162:8300/listen.pls"
+              },
+              {
+                "-name": "Big B Radio - Asian Pop",
+                "-url": "http://64.71.79.181:8020/listen.pls"
+              },
+              {
+                "-name": "FIP",
+                "-url": "http://chai5she.cdn.dvmr.fr:80/fip-midfi.mp3?ID=84y898ardu"
+              },
+              {
+                "-name": "he Beatles - 181.FM",
+                "-url": "http://relay.181.fm:8062//"
+              },
+              {
+                "-name": "WGN - 720 AM Chicago",
+                "-url": "http://65.19.131.141/wgnam-wgnamaac-ibc2"
+              },
+              {
+                "-name": "Venice Classic Radio",
+                "-url": "http://174.36.206.197:8000/listen.pls?sid=1"
+              },
+              {
+                "-name": "Radio Classique",
+                "-url": "http://radioclassique.ice.infomaniak.ch:80/radioclassique-high"
+              },
+              {
+                "-name": "98.9FM",
+                "-url": "http://s7.viastreaming.net:8305/listen.pls"
+              },
+              {
+                "-name": "KNSI 1450 AM",
+                "-url": "http://icy1.abacast.com/leighton-knsiamaac-64"
+              },
+              {
+                "-name": "Europe 1",
+                "-url": "http://e1-live-mp3-128.scdn.arkena.com/europe1.mp3"
+              },
+              {
+                "-name": "Pirate FM",
+                "-url": "http://fg2.sad.ukrd.com/pirate?ts=1496444921"
+              },
+              {
+                "-name": "RusHit48",
+                "-url": "http://ruhit.imgradio.pro/RusHit48"
+              },
+              {
+                "-name": "BBC 1Xtra",
+                "-url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p"
+              },
+              {
+                "-name": "R&B Hip-Hop - 2000 FM",
+                "-url": "http://107.155.111.170:8120/listen.pls"
+              },
+              {
+                "-name": "RTL",
+                "-url": "http://streaming.radio.rtl.fr/rtl-1-44-96"
+              },
+              {
+                "-name": "radiorecord",
+                "-url": "http://online.radiorecord.ru:8102/sd90_128"
+              },
+              {
+                "-name": "kommersant128",
+                "-url": "http://kommersant77.hostingradio.ru:8016/kommersant128.mp3"
+              },
+              {
+                "-name": "Cafe Radio - 1.FM",
+                "-url": "http://sc-caferadio.1.fm:10084//"
+              }
+            ]
+          }
+
+        ]
+
+      }
+    ],
+    "version": {
+      "code": 1
+    }
+  }
+}
