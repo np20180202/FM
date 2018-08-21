@@ -2835,6 +2835,10 @@
 								"-url": "http://lhttp.qingting.fm/live/1227/64k.mp3"
 							},
 							{
+								"-name": "洛阳经济广播",
+								"-url": "http://live.xmcdn.com/live/493/64.m3u8"
+							},
+							{
 								"-name": "鹤壁新闻综合广播",
 								"-url": "http://lhttp.qingting.fm/live/5022055/64k.mp3"
 							},
@@ -3702,6 +3706,10 @@
 							{
 								"-name": "抚顺交通广播",
 								"-url": "http://lhttp.qingting.fm/live/1094/64k.mp3"
+							},
+							{
+								"-name": "抚顺新闻广播",
+								"-url": "http://live.xmcdn.com/live/339/64.m3u8"
 							}
 						,
 							{
@@ -4374,6 +4382,10 @@
 							{
 								"-name": "临沂新闻广播",
 								"-url": "http://live.xmcdn.com/live/1291/64.m3u8"
+							},
+							{
+								"-name": "临沂都市之声",
+								"-url": "http://115.28.215.11/live/1282/64.m3u8"
 							},
 							{
 								"-name": "聊城新闻广播",
@@ -6112,10 +6124,6 @@
 								"-url": "http://audio1.china-plus.net:31080/10.102.62.44/radios/105057/index_105057.m3u8"
 							},
 							{
-								"-name": "兰州新闻广播",
-								"-url": "http://http.hz.qingting.fm/1712.mp3"
-							},
-							{
 								"-name": "甘肃都市调频快乐1066",
 								"-url": "http://http.hz.qingting.fm/2624129.mp3"
 							},
@@ -6146,6 +6154,10 @@
 							{
 								"-name": "兰州新闻综合",
 								"-url": "http://live.xmcdn.com/live/294/64.m3u8"
+							},
+							{
+								"-name": "兰州幸福调频1008私家车广播",
+								"-url": "http://115.28.215.11/live/295/64.m3u8"
 							},
 							{
 								"-name": "庆阳新闻综合广播",
@@ -6327,6 +6339,10 @@
 							{
 								"-name": "宁夏新闻广播",
 								"-url": "http://http.hz.qingting.fm/1839.mp3"
+							},
+							{
+								"-name": "宁夏经济广播",
+								"-url": "http://lhttp.qingting.fm/live/1841/64k.mp3"
 							},
 							{
 								"-name": "银川新闻综合广播",
